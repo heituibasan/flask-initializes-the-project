@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>注册成功</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .header {
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 24px;
+            font-weight: normal;
+            color: #333;
+        }
+
+        .content {
+            padding: 20px;
+        }
+
+        .content p {
+            line-height: 1.6;
+        }
+
+        .content .username {
+            font-size: 24px;
+            font-weight: bold;
+            color: #007BFF;
+        }
+
+        .info {
+            background-color: #f9f9f9;
+            padding: 10px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+
+        .info p {
+            margin: 5px 0;
+        }
+
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <h1>欢迎注册，<span class="username">{{ username }}</span>！</h1>
+    </div>
+    <div class="content">
+        <p>亲爱的 <span class="username">{{ username }}</span>，</p>
+        <p>感谢您注册成为我们的一员！我们非常高兴地欢迎您加入。</p>
+        <div class="info">
+            <p><strong>您的注册信息如下：</strong></p>
+            <p>用户名：{{ username }}</p>
+            <p>邮箱：{{ email }}</p>
+            <p>注册日期：{{ date }}</p>
+        </div>
+        <p>为了确保您的账户安全，请尽快登录并更新您的个人资料。</p>
+    </div>
+
+</div>
+</body>
+</html>

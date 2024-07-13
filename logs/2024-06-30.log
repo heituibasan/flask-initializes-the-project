@@ -1,0 +1,1976 @@
+2024-06-30 11:07:46,463 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 11:07:46,463 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 11:07:46,464 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:07:46,996 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:07:47,003 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:07:49,941 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:07:49] "GET / HTTP/1.1" 200 -
+2024-06-30 11:07:50,162 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:07:50] "[36mGET /assets/index-D6pr4OYR.css HTTP/1.1[0m" 304 -
+2024-06-30 11:07:50,180 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:07:50] "[36mGET /assets/index-BOeIANbt.js HTTP/1.1[0m" 304 -
+2024-06-30 11:07:52,046 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:07:52] "[36mGET /assets/AboutView-xR1q-qm8.js HTTP/1.1[0m" 304 -
+2024-06-30 11:07:52,694 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:07:52] "[36mGET /assets/AboutView-C6Dx7pxG.css HTTP/1.1[0m" 304 -
+2024-06-30 11:09:22,185 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-30 11:09:22,274 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:09:23,510 - build - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-30 11:09:26,054 - build - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-30 11:09:30,031 - build - INFO - ¹¹½¨Íê³É£¡
+2024-06-30 11:09:30,046 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 11:09:30,046 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 11:09:30,048 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:09:30,869 - build - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-30 11:09:33,503 - build - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-30 11:09:38,807 - build - INFO - ¹¹½¨Íê³É£¡
+2024-06-30 11:09:38,826 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:09:38,832 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:09:38,895 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:09:38] "GET / HTTP/1.1" 200 -
+2024-06-30 11:09:38,898 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:09:38] "GET / HTTP/1.1" 200 -
+2024-06-30 11:09:39,132 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:09:39] "[36mGET /assets/index-D6pr4OYR.css HTTP/1.1[0m" 304 -
+2024-06-30 11:09:39,133 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:09:39] "[36mGET /assets/index-BOeIANbt.js HTTP/1.1[0m" 304 -
+2024-06-30 11:09:39,142 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:09:39] "[36mGET /assets/index-D6pr4OYR.css HTTP/1.1[0m" 304 -
+2024-06-30 11:09:39,143 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:09:39] "[36mGET /assets/index-BOeIANbt.js HTTP/1.1[0m" 304 -
+2024-06-30 11:10:28,566 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 11:10:28,680 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:10:29,520 - build - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-30 11:10:32,747 - build - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-30 11:10:37,619 - build - INFO - ¹¹½¨Íê³É£¡
+2024-06-30 11:10:37,637 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:10:37,643 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:11:35,763 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-30 11:11:35,902 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:14:05,781 - build - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-30 11:14:08,866 - build - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-30 11:14:13,683 - __main__ - INFO - ¹¹½¨Íê³É£¡
+2024-06-30 11:14:13,708 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 11:14:13,708 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 11:14:13,711 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:14:14,631 - build - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-30 11:14:17,358 - build - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-30 11:14:22,351 - __main__ - INFO - ¹¹½¨Íê³É£¡
+2024-06-30 11:14:22,370 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:14:22,376 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:14:23,465 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-30 11:14:23,540 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:14:24,308 - build - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-30 11:14:26,985 - build - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-30 11:14:31,935 - __main__ - INFO - ¹¹½¨Íê³É£¡
+2024-06-30 11:14:31,953 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:14:31,959 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:14:56,082 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-30 11:14:56,163 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:18:39,293 - build - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-30 11:18:42,591 - build - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-30 11:18:47,506 - __main__ - INFO - ¹¹½¨Íê³É£¡
+2024-06-30 11:18:47,520 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 11:18:47,520 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 11:18:47,522 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:18:48,289 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:18:48,292 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:18:59,796 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-30 11:18:59,892 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:19:00,703 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:19:00,706 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:19:27,726 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-30 11:19:27,804 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:19:28,593 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:19:28,596 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:19:33,789 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-30 11:19:33,883 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:19:34,663 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:19:34,666 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:19:38,801 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-30 11:19:38,853 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:19:39,318 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:19:39,320 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:19:54,737 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-30 11:19:54,815 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:19:55,278 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:19:55,280 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:19:58,618 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:19:58] "GET / HTTP/1.1" 200 -
+2024-06-30 11:19:58,696 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:19:58] "[36mGET /assets/index-BOeIANbt.js HTTP/1.1[0m" 304 -
+2024-06-30 11:19:58,697 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:19:58] "[36mGET /assets/index-D6pr4OYR.css HTTP/1.1[0m" 304 -
+2024-06-30 11:19:58,725 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:19:58] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-06-30 11:19:59,203 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:19:59] "GET / HTTP/1.1" 200 -
+2024-06-30 11:19:59,230 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:19:59] "[36mGET /assets/index-BOeIANbt.js HTTP/1.1[0m" 304 -
+2024-06-30 11:19:59,231 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:19:59] "[36mGET /assets/index-D6pr4OYR.css HTTP/1.1[0m" 304 -
+2024-06-30 11:19:59,260 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:19:59] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-06-30 11:20:04,469 - build - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-30 11:20:06,755 - build - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-30 11:20:09,806 - __main__ - INFO - ¹¹½¨Íê³É£¡
+2024-06-30 11:20:09,816 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 11:20:09,817 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 11:20:09,818 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:20:10,302 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:20:10,304 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:21:27,556 - build - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-30 11:21:29,298 - build - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-30 11:21:35,383 - __main__ - INFO - ¹¹½¨Íê³É£¡
+2024-06-30 11:21:35,394 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 11:21:35,394 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 11:21:35,395 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:21:35,919 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:21:35,921 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:21:52,656 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:21:52] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-30 11:21:52,682 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:21:52] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-30 11:21:52,706 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:21:52] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 11:21:52,723 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:21:52] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 11:21:52,752 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:21:52] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 11:21:52,755 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:21:52] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 11:21:52,763 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:21:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:21:52,801 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:21:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:21:52,837 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:21:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:23:18,232 - build - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-30 11:23:20,266 - build - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-30 11:23:26,109 - __main__ - INFO - ¹¹½¨Íê³É£¡
+2024-06-30 11:23:26,135 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 11:23:26,136 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 11:23:26,139 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:23:26,660 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:23:26,661 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:25:03,391 - build - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-30 11:25:05,814 - build - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-30 11:25:12,813 - __main__ - INFO - ¹¹½¨Íê³É£¡
+2024-06-30 11:25:12,824 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 11:25:12,824 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 11:25:12,826 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:25:13,353 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:25:13,355 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:27:26,877 - build - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-30 11:27:47,143 - build - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-30 11:27:55,205 - __main__ - INFO - ¹¹½¨Íê³É£¡
+2024-06-30 11:27:55,222 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 11:27:55,222 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 11:27:55,227 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:27:56,053 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:27:56,056 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:27:57,805 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:57] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-30 11:27:57,935 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:57] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 11:27:57,939 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:57] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 11:27:57,955 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:57] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:27:57,981 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:57] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:27:58,645 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:58] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-30 11:27:58,684 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:58] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 11:27:58,690 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:58] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 11:27:58,721 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:58] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:27:58,749 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:58] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:27:59,176 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:59] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-30 11:27:59,224 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:59] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 11:27:59,229 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:59] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 11:27:59,245 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:59] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:27:59,268 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:59] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:27:59,522 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:59] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-30 11:27:59,561 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:59] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 11:27:59,567 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:59] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 11:27:59,594 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:59] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:27:59,620 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:59] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:27:59,673 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:59] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-30 11:27:59,710 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:59] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 11:27:59,715 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:59] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 11:27:59,733 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:59] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:27:59,760 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:59] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:27:59,856 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:59] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-30 11:27:59,897 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:59] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 11:27:59,906 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:59] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 11:27:59,923 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:59] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:27:59,955 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:27:59] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,029 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-30 11:28:00,067 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,072 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,087 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,114 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,206 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-30 11:28:00,250 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,253 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,274 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,296 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,393 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-30 11:28:00,435 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,437 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,473 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,501 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,569 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-30 11:28:00,608 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,613 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,633 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,658 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,741 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-30 11:28:00,778 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,783 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,800 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,825 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,916 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-30 11:28:00,954 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,965 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 11:28:00,985 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:28:01,009 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:28:01,051 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:01] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-30 11:28:01,112 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:01] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 11:28:01,117 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:01] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 11:28:01,137 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:28:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:29:38,316 - build - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-30 11:30:05,592 - build - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-30 11:30:13,611 - __main__ - INFO - ¹¹½¨Íê³É£¡
+2024-06-30 11:30:13,624 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 11:30:13,624 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 11:30:13,626 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:30:14,472 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:30:14,477 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:30:21,581 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:30:21] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-30 11:30:21,743 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:30:21] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 11:30:21,745 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:30:21] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 11:30:21,761 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:30:21] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:30:21,804 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:30:21] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:30:24,706 - build - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-30 11:30:27,047 - build - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-30 11:30:34,359 - __main__ - INFO - ¹¹½¨Íê³É£¡
+2024-06-30 11:30:34,373 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 11:30:34,373 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 11:30:34,374 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:30:34,885 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:30:34,887 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:32:48,371 - build - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-30 11:33:10,067 - build - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-30 11:33:21,723 - __main__ - INFO - ¹¹½¨Íê³É£¡
+2024-06-30 11:33:21,761 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 11:33:21,761 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 11:33:21,765 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:33:22,635 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:33:22,639 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:33:29,209 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:33:29] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-30 11:33:29,295 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:33:29] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 11:33:29,295 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:33:29] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 11:33:29,310 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:33:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:33:29,335 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:33:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:36:22,630 - build - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-30 11:36:24,733 - build - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-30 11:36:32,142 - __main__ - INFO - ¹¹½¨Íê³É£¡
+2024-06-30 11:36:32,155 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 11:36:32,155 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 11:36:32,156 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:36:32,678 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:36:32,680 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:38:12,757 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 11:38:12,859 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:38:13,680 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:38:13,683 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:45:35,675 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\initialize.py', reloading
+2024-06-30 11:45:35,775 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:45:36,666 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:45:36,669 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:45:48,156 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-30 11:45:48,241 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:45:49,073 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:45:49,076 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:45:50,655 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 11:45:50,656 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 11:45:50,658 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:45:51,456 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:45:51,459 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:45:54,110 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:45:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-30 11:45:54,144 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:45:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-30 11:45:54,229 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:45:54] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 11:45:54,241 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:45:54] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 11:45:54,246 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:45:54] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 11:45:54,248 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:45:54] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 11:45:54,310 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:45:54] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:45:54,315 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:45:54] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:46:13,727 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:46:13] "[35m[1mGET /api/admin/login HTTP/1.1[0m" 500 -
+2024-06-30 11:46:13,773 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:46:13] "GET /api/admin/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-06-30 11:46:13,781 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:46:13] "GET /api/admin/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-06-30 11:46:13,809 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:46:13] "GET /api/admin/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-06-30 11:46:13,838 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:46:13] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:46:18,484 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:46:18] "[35m[1mGET /admin/login HTTP/1.1[0m" 500 -
+2024-06-30 11:46:18,529 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:46:18] "GET /admin/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-06-30 11:46:18,535 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:46:18] "GET /admin/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-06-30 11:46:18,564 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:46:18] "GET /admin/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-06-30 11:46:18,588 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:46:18] "[36mGET /admin/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 11:46:39,622 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:46:39] "GET /admin/login HTTP/1.1" 200 -
+2024-06-30 11:46:39,718 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:46:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-06-30 11:46:48,187 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:46:48] "GET /admin/login HTTP/1.1" 200 -
+2024-06-30 11:47:04,037 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 11:47:04,205 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:47:05,141 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:47:05,144 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:47:15,584 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 11:47:15,679 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:47:16,513 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:47:16,516 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:47:16,546 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:47:16] "GET /admin/login HTTP/1.1" 200 -
+2024-06-30 11:47:21,841 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:47:21] "GET /api/admin/login HTTP/1.1" 200 -
+2024-06-30 11:47:25,408 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 11:47:25,410 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 11:47:25,412 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:47:26,295 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:47:26,299 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:47:27,954 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:47:27] "GET /api/admin/login HTTP/1.1" 200 -
+2024-06-30 11:47:38,204 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:47:38] "GET /admin/login HTTP/1.1" 200 -
+2024-06-30 11:47:52,202 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 11:47:52,316 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:47:53,168 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:47:53,173 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:49:34,335 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\ErrorController.py', reloading
+2024-06-30 11:49:34,421 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:49:35,267 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:49:35,270 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:49:50,918 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\initialize.py', reloading
+2024-06-30 11:49:51,013 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:50:29,197 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 11:50:29,224 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 11:50:29,226 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:50:30,058 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:50:30,062 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:50:32,044 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:50:32] "GET /admin/login HTTP/1.1" 200 -
+2024-06-30 11:50:33,842 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:50:33] "GET / HTTP/1.1" 200 -
+2024-06-30 11:50:52,058 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-30 11:50:52,178 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:50:53,020 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:50:53,024 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:50:55,083 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:50:55] "GET / HTTP/1.1" 200 -
+2024-06-30 11:50:58,325 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:50:58] "GET /admin/login HTTP/1.1" 200 -
+2024-06-30 11:51:05,156 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:51:05] "GET /api/admin/login HTTP/1.1" 200 -
+2024-06-30 11:51:08,763 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-30 11:51:08,862 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 11:51:09,668 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 11:51:09,671 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 11:51:09,709 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:51:09] "GET /api/admin/login HTTP/1.1" 200 -
+2024-06-30 11:51:13,918 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:51:13] "GET /admin/login HTTP/1.1" 200 -
+2024-06-30 11:51:15,444 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 11:51:15] "GET /admin/login HTTP/1.1" 200 -
+2024-06-30 15:30:44,044 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-30 15:30:44,135 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:30:45,022 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:30:45,025 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:31:55,685 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-30 15:31:55,776 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:31:56,599 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:31:56,604 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:31:56,645 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:31:56] "GET /admin/login HTTP/1.1" 200 -
+2024-06-30 15:32:00,029 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:32:00] "GET / HTTP/1.1" 200 -
+2024-06-30 15:32:03,536 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:32:03] "GET /api/admin/login HTTP/1.1" 200 -
+2024-06-30 15:33:30,609 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\initialize.py', reloading
+2024-06-30 15:33:30,705 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:33:31,497 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:33:31,503 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:33:37,785 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\initialize.py', reloading
+2024-06-30 15:33:37,862 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:33:38,639 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:33:38,642 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:33:39,923 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:33:39] "GET /api/admin/login HTTP/1.1" 200 -
+2024-06-30 15:33:51,120 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:33:51] "GET /api/admin/login HTTP/1.1" 200 -
+2024-06-30 15:33:55,764 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:33:55] "GET /admin/login HTTP/1.1" 200 -
+2024-06-30 15:34:21,210 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-30 15:34:21,255 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:34:21,762 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:34:21,764 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:34:25,594 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:34:25] "GET /admin/login HTTP/1.1" 200 -
+2024-06-30 15:34:26,114 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:34:26] "GET /admin/login HTTP/1.1" 200 -
+2024-06-30 15:34:27,333 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:34:27] "GET /api/admin/login HTTP/1.1" 200 -
+2024-06-30 15:34:27,763 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:34:27] "GET /api/admin/login HTTP/1.1" 200 -
+2024-06-30 15:34:55,702 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:34:55] "[35m[1mGET /api/login HTTP/1.1[0m" 500 -
+2024-06-30 15:34:55,790 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:34:55] "GET /api/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-06-30 15:34:55,791 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:34:55] "GET /api/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-06-30 15:34:55,804 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:34:55] "GET /api/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-06-30 15:34:55,888 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:34:55] "[36mGET /api/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:35:36,283 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:35:36] "GET /api/admin/login HTTP/1.1" 200 -
+2024-06-30 15:35:59,451 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-30 15:35:59,515 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:35:59,938 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:35:59,940 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:36:19,530 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-30 15:36:19,590 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:36:20,039 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:36:20,041 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:36:22,109 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-30 15:36:22,180 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:36:22,601 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:36:22,603 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:36:23,242 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:36:23] "GET /api/admin/login HTTP/1.1" 200 -
+2024-06-30 15:36:24,065 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:36:24] "GET /api/admin/login HTTP/1.1" 200 -
+2024-06-30 15:36:28,004 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:36:28] "[35m[1mGET /api/login HTTP/1.1[0m" 500 -
+2024-06-30 15:36:28,069 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:36:28] "[36mGET /api/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 15:36:28,073 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:36:28] "[36mGET /api/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 15:36:28,083 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:36:28] "[36mGET /api/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:36:28,113 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:36:28] "[36mGET /api/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:36:35,963 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 15:36:36,025 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:36:36,446 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:36:36,448 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:36:44,732 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\initialize.py', reloading
+2024-06-30 15:36:44,801 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:36:45,280 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:36:45,282 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:36:47,163 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:36:47] "GET /api/login HTTP/1.1" 200 -
+2024-06-30 15:36:51,257 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:36:51] "[35m[1mGET /api/admin/login HTTP/1.1[0m" 500 -
+2024-06-30 15:36:51,326 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:36:51] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 15:36:51,327 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:36:51] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 15:36:51,345 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:36:51] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:36:51,371 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:36:51] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:36:57,379 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:36:57] "GET /admin/login HTTP/1.1" 200 -
+2024-06-30 15:36:58,668 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:36:58] "GET /admin/login HTTP/1.1" 200 -
+2024-06-30 15:36:59,062 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:36:59] "GET /admin/login HTTP/1.1" 200 -
+2024-06-30 15:36:59,231 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:36:59] "GET /admin/login HTTP/1.1" 200 -
+2024-06-30 15:36:59,404 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:36:59] "GET /admin/login HTTP/1.1" 200 -
+2024-06-30 15:37:03,143 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:37:03] "GET /admin/login HTTP/1.1" 200 -
+2024-06-30 15:37:04,328 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:37:04] "GET /api/login HTTP/1.1" 200 -
+2024-06-30 15:37:10,297 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:37:10] "GET /admin/login HTTP/1.1" 200 -
+2024-06-30 15:37:51,493 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-30 15:37:51,624 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:37:52,536 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:37:52,539 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:37:52,635 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:37:52] "GET /admin/login HTTP/1.1" 200 -
+2024-06-30 15:37:57,761 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:37:57] "[35m[1mGET /api/admin/login HTTP/1.1[0m" 500 -
+2024-06-30 15:37:57,876 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:37:57] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 15:37:57,882 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:37:57] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 15:37:57,901 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:37:57] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:37:57,963 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:37:57] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:39:28,812 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-30 15:39:28,892 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:39:29,680 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:39:29,683 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:39:38,098 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 15:39:38,177 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:39:38,954 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:39:38,957 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:39:47,441 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 15:39:47,530 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:39:48,307 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:39:48,311 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:40:20,375 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:40:20] "[35m[1mGET /api/admin/login HTTP/1.1[0m" 500 -
+2024-06-30 15:40:20,607 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:40:20] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 15:40:20,613 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:40:20] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 15:40:20,633 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:40:20] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:40:20,701 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:40:20] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:40:21,794 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 15:40:21,875 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:40:22,686 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:40:22,689 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:40:24,277 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:40:24] "[35m[1mGET /api/admin/login HTTP/1.1[0m" 500 -
+2024-06-30 15:40:24,387 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:40:24] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 15:40:24,388 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:40:24] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 15:40:24,406 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:40:24] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:40:24,461 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:40:24] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:40:43,591 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 15:40:43,679 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:40:44,498 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:40:44,502 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:40:48,895 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:40:48] "[35m[1mGET /api/admin/login HTTP/1.1[0m" 500 -
+2024-06-30 15:40:49,011 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:40:49] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 15:40:49,019 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:40:49] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 15:40:49,036 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:40:49] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:40:49,101 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:40:49] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:41:23,964 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 15:41:24,034 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:41:24,449 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:41:24,451 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:41:26,558 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 15:41:26,612 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:41:27,050 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:41:27,052 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:41:30,277 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:41:30] "GET /api/admin/login HTTP/1.1" 200 -
+2024-06-30 15:41:53,814 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 15:41:53,932 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:41:54,333 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:41:54,335 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:42:28,344 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 15:42:28,403 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:42:28,887 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:42:28,888 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:42:31,766 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:42:31] "[35m[1mGET /api/admin/register HTTP/1.1[0m" 500 -
+2024-06-30 15:42:31,834 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:42:31] "GET /api/admin/register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-06-30 15:42:31,835 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:42:31] "GET /api/admin/register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-06-30 15:42:31,845 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:42:31] "GET /api/admin/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-06-30 15:42:31,860 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:42:31] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:42:44,351 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 15:42:44,397 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:42:44,793 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:42:44,794 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:43:45,641 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 15:43:45,689 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:43:46,141 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:43:46,143 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:43:46,718 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:43:46] "[35m[1mGET /api/admin/register HTTP/1.1[0m" 500 -
+2024-06-30 15:43:46,786 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:43:46] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 15:43:46,790 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:43:46] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 15:43:46,798 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:43:46] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:43:46,812 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:43:46] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:43:54,399 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 15:43:54,445 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:43:54,858 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:43:54,859 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:43:57,019 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:43:57] "[35m[1mGET /api/admin/register HTTP/1.1[0m" 500 -
+2024-06-30 15:43:57,076 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:43:57] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 15:43:57,079 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:43:57] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 15:43:57,090 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:43:57] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:43:57,102 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:43:57] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:44:57,973 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 15:44:58,034 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:44:58,474 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:44:58,475 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:44:59,048 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:44:59] "[35m[1mGET /api/admin/register HTTP/1.1[0m" 500 -
+2024-06-30 15:44:59,113 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:44:59] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 15:44:59,116 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:44:59] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 15:44:59,125 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:44:59] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:44:59,144 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:44:59] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:46:56,440 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 15:46:56,548 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:46:57,455 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:46:57,460 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:47:05,879 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\response.py', reloading
+2024-06-30 15:47:05,994 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:47:06,786 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:47:06,790 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:47:15,205 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 15:47:15,283 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:47:16,053 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:47:16,056 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:47:17,697 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:47:17] "[35m[1mGET /api/admin/register HTTP/1.1[0m" 500 -
+2024-06-30 15:47:17,811 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:47:17] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 15:47:17,813 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:47:17] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 15:47:17,828 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:47:17] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:47:17,852 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:47:17] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:47:23,196 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:47:23] "[35m[1mGET /api/admin/register HTTP/1.1[0m" 500 -
+2024-06-30 15:47:23,267 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:47:23] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 15:47:23,276 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:47:23] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 15:47:23,310 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:47:23] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:47:23,397 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:47:23] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:48:56,989 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\initialize.py', reloading
+2024-06-30 15:48:57,092 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:49:51,054 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 15:49:51,059 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 15:49:51,061 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:49:51,855 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:49:51,858 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:49:55,609 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:49:55] "[35m[1mGET /api/admin/register HTTP/1.1[0m" 500 -
+2024-06-30 15:49:55,718 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:49:55] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 15:49:55,724 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:49:55] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 15:49:55,740 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:49:55] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:49:55,774 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:49:55] "[36mGET /api/admin/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 15:51:13,125 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\initialize.py', reloading
+2024-06-30 15:51:13,203 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:51:14,028 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:51:14,031 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:51:43,488 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\initialize.py', reloading
+2024-06-30 15:51:43,584 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:51:44,556 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:51:44,560 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:52:02,414 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\initialize.py', reloading
+2024-06-30 15:52:02,495 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:52:03,296 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:52:03,299 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:52:06,496 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\initialize.py', reloading
+2024-06-30 15:52:06,606 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:52:07,414 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:52:07,418 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:52:14,767 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\initialize.py', reloading
+2024-06-30 15:52:14,839 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:59:32,542 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 15:59:32,547 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 15:59:32,548 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 15:59:33,327 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 15:59:33,330 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 15:59:38,183 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 15:59:38] "GET /api/admin/register HTTP/1.1" 200 -
+2024-06-30 16:02:07,019 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:02:07,119 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:02:07,912 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:02:07,915 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:02:11,597 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 16:02:11] "GET /api/admin/register HTTP/1.1" 200 -
+2024-06-30 16:03:16,147 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:03:16,246 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:03:17,093 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:03:17,096 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:03:30,747 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 16:03:30,857 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:03:31,667 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:03:31,671 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:03:33,326 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 16:03:33] "GET /api/admin/register HTTP/1.1" 200 -
+2024-06-30 16:04:53,098 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 16:04:53,185 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:04:54,032 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:04:54,035 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:04:56,254 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 16:04:56] "GET /api/admin/register HTTP/1.1" 200 -
+2024-06-30 16:05:02,625 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 16:05:02] "[35m[1mGET /api/admin/login HTTP/1.1[0m" 500 -
+2024-06-30 16:05:02,759 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 16:05:02] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 16:05:02,760 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 16:05:02] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 16:05:02,775 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 16:05:02] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 16:05:02,798 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 16:05:02] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 16:05:18,246 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 16:05:18,329 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:05:19,182 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:05:19,185 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:05:19,239 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 16:05:19] "[35m[1mGET /api/admin/login HTTP/1.1[0m" 500 -
+2024-06-30 16:05:19,363 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 16:05:19] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 16:05:19,368 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 16:05:19] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 16:05:19,388 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 16:05:19] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 16:05:19,419 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 16:05:19] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 16:05:36,939 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 16:05:37,015 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:05:37,852 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:05:37,855 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:05:48,376 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 16:05:48,476 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:05:49,288 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:05:49,292 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:05:51,621 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 16:05:51] "[35m[1mGET /api/admin/login HTTP/1.1[0m" 500 -
+2024-06-30 16:05:51,727 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 16:05:51] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-30 16:05:51,738 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 16:05:51] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-30 16:05:51,752 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 16:05:51] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 16:05:51,789 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 16:05:51] "[36mGET /api/admin/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-30 16:06:00,780 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 16:06:00,926 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:06:01,843 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:06:01,846 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:06:07,901 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 16:06:07] "GET /api/admin/login HTTP/1.1" 200 -
+2024-06-30 16:06:18,297 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 16:06:18] "GET /api/admin/login HTTP/1.1" 200 -
+2024-06-30 16:06:31,076 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 16:06:31] "GET /api/admin/login HTTP/1.1" 200 -
+2024-06-30 16:06:41,600 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:06:41,681 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:06:42,490 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:06:42,493 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:07:12,036 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:07:12,114 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:07:12,916 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:07:12,919 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:07:21,355 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:07:21,443 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:07:22,326 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:07:22,329 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:08:07,508 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:08:07,597 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:08:08,447 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:08:08,451 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:08:14,861 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:08:14,955 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:08:15,804 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:08:15,807 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:09:30,258 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:09:30,361 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:09:31,242 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:09:31,245 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:09:36,575 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:09:36,692 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:09:37,549 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:09:37,552 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:10:28,894 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:10:29,059 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:10:29,875 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:10:29,878 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:15:06,594 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:15:06,701 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:15:07,592 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:15:07,595 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:15:09,824 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:15:09,904 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:15:10,708 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:15:10,711 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:15:14,942 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:15:15,053 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:15:15,998 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:15:16,001 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:15:42,695 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 16:15:42,846 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:15:43,701 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:15:43,704 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:16:45,397 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:16:45,542 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:16:46,412 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:16:46,415 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:16:59,080 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:16:59,158 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:17:00,068 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:17:00,072 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:17:06,465 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:17:06,564 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:17:07,380 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:17:07,383 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:23:35,329 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:23:35,488 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:23:36,410 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:23:36,414 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:27:37,561 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:27:37,655 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:27:38,580 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:27:38,583 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:27:44,958 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:27:45,077 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:27:45,890 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:27:45,893 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:27:48,028 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:27:48,105 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:27:49,029 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:27:49,035 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:28:44,415 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:28:44,508 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:28:45,327 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:28:45,330 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:29:08,535 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:29:08,613 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:29:09,398 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:29:09,401 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:29:55,533 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:29:55,607 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:29:56,408 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:29:56,411 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:31:24,636 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:31:24,723 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:31:25,623 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:31:25,626 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:31:40,359 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:31:40,446 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:31:41,262 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:31:41,265 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:31:49,767 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:31:49,842 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:31:50,698 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:31:50,701 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:32:30,222 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:32:30,319 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:32:31,179 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:32:31,182 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:32:35,445 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:32:35,585 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:32:36,404 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:32:36,407 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:32:51,202 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\extensions.py', reloading
+2024-06-30 16:32:51,278 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:32:52,096 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:32:52,099 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:32:55,283 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\extensions.py', reloading
+2024-06-30 16:32:55,374 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:32:56,291 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:32:56,295 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:33:24,692 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:33:24,865 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:33:25,734 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:33:25,737 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:33:35,277 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:33:35,378 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:33:36,171 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:33:36,174 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:33:46,676 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:33:46,757 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:33:47,577 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:33:47,580 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:34:08,697 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:34:08,775 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:34:09,599 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:34:09,602 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:34:10,715 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:34:10,803 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:34:11,595 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:34:11,598 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:34:14,782 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:34:14,870 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:34:15,702 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:34:15,705 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:35:26,195 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:35:26,283 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:35:27,112 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:35:27,116 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:36:00,259 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:36:00,351 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:36:01,251 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:36:01,254 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:36:07,626 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:36:07,726 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:36:08,602 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:36:08,605 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:36:11,852 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:36:11,946 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:36:12,779 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:36:12,782 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:36:18,195 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:36:18,289 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:36:19,147 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:36:19,150 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:36:37,059 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:36:37,135 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:36:37,937 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:36:37,940 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:36:41,143 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:36:41,257 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:36:42,074 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:36:42,077 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:36:44,198 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:36:44,304 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:36:45,095 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:36:45,098 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:37:02,126 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:37:02,200 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:37:02,998 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:37:03,001 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:37:09,315 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:37:09,420 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:37:10,268 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:37:10,272 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:38:33,011 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:38:33,086 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:38:33,883 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:38:33,886 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:39:52,594 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:39:52,670 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:39:53,460 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:39:53,463 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:41:21,912 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:41:21,994 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:41:22,798 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:41:22,801 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:41:26,004 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:41:26,113 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:41:27,108 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:41:27,112 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:41:29,302 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:41:29,409 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:41:30,247 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:41:30,251 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:41:46,071 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:41:46,144 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:41:47,137 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:41:47,140 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:42:18,782 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:42:18,880 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:42:19,679 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:42:19,682 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:43:16,499 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:43:16,619 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:43:17,495 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:43:17,498 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:43:25,958 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:43:26,059 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:43:26,855 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:43:26,858 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:44:03,726 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:44:03,818 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:44:04,725 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:44:04,728 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:44:12,175 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 16:44:12,267 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:44:13,128 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:44:13,131 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:44:39,418 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:44:39,552 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:44:40,442 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:44:40,445 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:44:43,649 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:44:43,753 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:44:44,593 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:44:44,596 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:45:15,021 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:45:15,173 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:45:16,048 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:45:16,051 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:45:21,345 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:45:21,466 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:45:22,357 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:45:22,362 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:45:48,677 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:45:48,784 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:45:49,668 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:45:49,671 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:45:57,133 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:45:57,244 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:45:58,095 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:45:58,098 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:46:09,664 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:46:09,764 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:46:10,636 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:46:10,639 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:46:51,508 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:46:51,588 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:46:52,396 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:46:52,399 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:47:10,366 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:47:10,442 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:47:11,258 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:47:11,261 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:47:14,485 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 16:47:14,587 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:47:15,406 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:47:15,409 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:47:40,760 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\jwt.py', reloading
+2024-06-30 16:47:40,863 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:47:41,678 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:47:41,682 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:47:50,119 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\jwt.py', reloading
+2024-06-30 16:47:50,240 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:47:51,088 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:47:51,092 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:49:03,530 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\jwt.py', reloading
+2024-06-30 16:49:03,603 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:49:04,436 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:49:04,440 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:49:41,252 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\jwt.py', reloading
+2024-06-30 16:49:41,373 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:49:42,273 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:49:42,275 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:49:58,019 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\jwt.py', reloading
+2024-06-30 16:49:58,112 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:49:58,932 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 16:49:58,935 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 16:50:13,724 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 16:50:13,806 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:28:56,983 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 17:28:57,008 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 17:28:57,010 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:28:57,801 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:28:57,805 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:29:41,674 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 17:29:41] "POST /api/users/register HTTP/1.1" 200 -
+2024-06-30 17:30:00,863 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 17:30:00,947 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:30:01,888 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:30:01,891 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:30:23,285 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 17:30:23,415 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:30:24,386 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:30:24,389 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:30:28,666 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 17:30:28,769 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:30:29,668 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:30:29,672 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:31:32,034 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 17:31:32] "POST /api/users/register HTTP/1.1" 200 -
+2024-06-30 17:31:55,579 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 17:31:55] "POST /api/users/register HTTP/1.1" 200 -
+2024-06-30 17:32:09,618 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 17:32:09] "[35m[1mPOST /api/users/register HTTP/1.1[0m" 500 -
+2024-06-30 17:34:21,570 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\encrypt.py', reloading
+2024-06-30 17:34:21,679 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:34:22,676 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:34:22,679 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:34:50,140 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\encrypt.py', reloading
+2024-06-30 17:34:50,259 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:34:51,097 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:34:51,100 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:35:26,836 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\encrypt.py', reloading
+2024-06-30 17:35:26,948 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:35:27,834 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:35:27,837 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:35:42,699 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\encrypt.py', reloading
+2024-06-30 17:35:42,804 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:35:43,607 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:35:43,610 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:35:48,948 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\encrypt.py', reloading
+2024-06-30 17:35:49,047 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:35:49,901 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:35:49,904 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:36:09,956 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\encrypt.py', reloading
+2024-06-30 17:36:10,064 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:36:10,975 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:36:10,978 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:36:16,337 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\encrypt.py', reloading
+2024-06-30 17:36:16,437 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:36:17,247 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:36:17,250 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:36:19,427 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\encrypt.py', reloading
+2024-06-30 17:36:19,525 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:36:20,494 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:36:20,498 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:36:41,594 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\encrypt.py', reloading
+2024-06-30 17:36:41,699 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:36:42,532 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:36:42,535 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:36:49,959 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\encrypt.py', reloading
+2024-06-30 17:36:50,055 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:36:50,881 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:36:50,884 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:36:57,263 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\encrypt.py', reloading
+2024-06-30 17:36:57,352 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:36:58,180 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:36:58,183 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:37:36,307 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\encrypt.py', reloading
+2024-06-30 17:37:36,386 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:37:37,229 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:37:37,232 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:38:00,442 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\encrypt.py', reloading
+2024-06-30 17:38:00,538 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:38:01,336 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:38:01,340 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:38:09,897 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\encrypt.py', reloading
+2024-06-30 17:38:09,986 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:38:10,774 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:38:10,777 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:38:32,861 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 17:38:32,973 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:38:33,832 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:38:33,835 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:38:50,782 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\encrypt.py', reloading
+2024-06-30 17:38:50,881 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:45:14,089 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 17:45:14,115 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 17:45:14,117 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:45:14,939 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:45:14,942 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:45:17,147 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 17:45:17] "[35m[1mPOST /api/users/register HTTP/1.1[0m" 500 -
+2024-06-30 17:48:51,205 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 17:48:51] "[35m[1mPOST /api/users/register HTTP/1.1[0m" 500 -
+2024-06-30 17:50:19,151 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 17:50:19,247 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:50:20,070 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:50:20,073 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:50:24,278 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 17:50:24] "POST /api/users/register HTTP/1.1" 200 -
+2024-06-30 17:50:37,114 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\ArticleModel.py', reloading
+2024-06-30 17:50:37,234 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:50:38,054 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:50:38,057 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:50:53,224 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 17:50:53] "POST /api/users/register HTTP/1.1" 200 -
+2024-06-30 17:51:11,105 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 17:51:11,190 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:51:12,053 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:51:12,056 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:51:33,319 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 17:51:33,395 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:51:34,398 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:51:34,401 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:51:59,766 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 17:51:59,861 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:52:00,770 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:52:00,772 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:52:10,331 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 17:52:10,490 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:52:11,365 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:52:11,368 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:52:28,352 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 17:52:28,465 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:52:29,280 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:52:29,308 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:52:36,794 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 17:52:36,905 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:52:37,767 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:52:37,770 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:53:12,973 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 17:53:13,062 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:53:13,972 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:53:13,975 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:53:29,907 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\handler\\error_messages.py', reloading
+2024-06-30 17:53:29,982 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:53:30,842 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:53:30,846 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:53:35,190 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\handler\\error_messages.py', reloading
+2024-06-30 17:53:35,285 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:53:36,164 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:53:36,167 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:54:00,478 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 17:54:00,570 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:54:01,585 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:54:01,588 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:54:46,066 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 17:54:46,159 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:58:47,337 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 17:58:47,338 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 17:58:47,341 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:58:48,171 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:58:48,174 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:58:52,380 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 17:58:52] "POST /api/users/login HTTP/1.1" 200 -
+2024-06-30 17:59:34,759 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 17:59:34,846 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 17:59:35,851 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 17:59:35,855 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 17:59:41,342 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 17:59:41] "POST /api/users/login HTTP/1.1" 200 -
+2024-06-30 18:00:05,257 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 18:00:05] "POST /api/users/register HTTP/1.1" 200 -
+2024-06-30 18:00:14,573 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 18:00:14] "POST /api/users/login HTTP/1.1" 200 -
+2024-06-30 18:03:05,969 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 18:03:06,117 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:03:07,020 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:03:07,023 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:03:39,928 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 18:03:40,008 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:03:40,956 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:03:40,961 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:03:59,041 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 18:03:59,125 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:03:59,988 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:03:59,991 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:04:23,876 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 18:04:23,950 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:04:24,901 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:04:24,904 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:04:48,178 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 18:04:48,279 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:04:49,176 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:04:49,179 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:04:58,801 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 18:04:58,879 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:04:59,698 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:04:59,701 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:06:22,841 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 18:06:22,948 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:06:23,797 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:06:23,800 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:06:28,123 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 18:06:28,199 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:06:29,041 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:06:29,044 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:06:35,465 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 18:06:35,558 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:06:36,571 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:06:36,575 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:06:46,273 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\handler\\error_messages.py', reloading
+2024-06-30 18:06:46,406 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:06:47,255 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:06:47,258 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:06:52,631 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\handler\\error_messages.py', reloading
+2024-06-30 18:06:52,715 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:06:53,524 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:06:53,527 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:06:55,723 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\handler\\error_messages.py', reloading
+2024-06-30 18:06:55,814 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:06:56,752 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:06:56,755 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:07:37,112 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 18:07:37,190 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:07:38,040 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:07:38,043 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:08:28,155 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 18:08:28,246 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:08:29,136 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:08:29,140 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:09:01,190 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 18:09:01] "GET /api/users/reset_password HTTP/1.1" 200 -
+2024-06-30 18:09:24,774 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 18:09:24] "GET /api/users/reset_password HTTP/1.1" 200 -
+2024-06-30 18:09:28,983 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 18:09:29,009 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 18:09:29,011 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:09:29,903 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:09:29,906 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:09:31,061 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 18:09:31] "GET /api/users/reset_password HTTP/1.1" 200 -
+2024-06-30 18:09:51,996 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 18:09:51] "POST /api/users/reset_password HTTP/1.1" 200 -
+2024-06-30 18:09:58,799 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 18:09:58] "POST /api/users/reset_password HTTP/1.1" 200 -
+2024-06-30 18:10:43,160 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\tools.py', reloading
+2024-06-30 18:10:43,257 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:10:44,485 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:10:44,491 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:10:47,876 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\tools.py', reloading
+2024-06-30 18:10:47,983 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:10:48,920 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:10:48,923 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:11:12,285 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 18:11:12,392 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:11:13,194 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:11:13,197 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:11:19,614 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 18:11:19,718 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:11:20,564 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:11:20,568 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:11:55,532 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 18:11:55,687 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:11:56,602 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:11:56,605 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:11:58,812 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 18:11:58,941 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:11:59,791 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:11:59,794 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:12:11,484 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\handler\\error_messages.py', reloading
+2024-06-30 18:12:11,587 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:12:12,413 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:12:12,416 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:12:18,854 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\handler\\error_messages.py', reloading
+2024-06-30 18:12:18,935 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:12:19,777 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:12:19,780 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:12:23,099 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 18:12:23] "POST /api/users/reset_password HTTP/1.1" 200 -
+2024-06-30 18:12:27,950 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 18:12:27] "POST /api/users/reset_password HTTP/1.1" 200 -
+2024-06-30 18:12:34,855 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 18:12:34] "POST /api/users/reset_password HTTP/1.1" 200 -
+2024-06-30 18:12:41,198 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 18:12:41] "POST /api/users/reset_password HTTP/1.1" 200 -
+2024-06-30 18:12:52,822 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 18:12:52] "POST /api/users/reset_password HTTP/1.1" 200 -
+2024-06-30 18:13:18,622 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 18:13:18] "POST /api/users/reset_password HTTP/1.1" 200 -
+2024-06-30 18:13:35,094 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\handler\\error_messages.py', reloading
+2024-06-30 18:13:35,196 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:13:36,034 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:13:36,037 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:14:03,437 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\handler\\error_messages.py', reloading
+2024-06-30 18:14:03,515 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:14:04,332 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:14:04,335 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:14:42,014 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 18:14:42,132 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:14:43,063 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:14:43,066 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:15:28,342 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 18:15:28,418 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:15:29,326 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:15:29,329 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:15:32,586 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 18:15:32,667 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:15:33,481 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:15:33,484 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:15:39,889 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 18:15:39,980 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:15:40,794 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:15:40,797 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:15:51,442 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 18:15:51,521 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:15:52,380 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:15:52,384 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:16:01,955 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\handler\\error_messages.py', reloading
+2024-06-30 18:16:02,035 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:16:02,854 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:16:02,857 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:16:21,964 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 18:16:22,045 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:16:22,932 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:16:22,935 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:16:24,133 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 18:16:24,205 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:16:25,010 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:16:25,013 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:16:30,722 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 18:16:30] "POST /api/users/reset_password HTTP/1.1" 200 -
+2024-06-30 18:16:37,400 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 18:16:37] "POST /api/users/reset_password HTTP/1.1" 200 -
+2024-06-30 18:16:41,014 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 18:16:41] "POST /api/users/reset_password HTTP/1.1" 200 -
+2024-06-30 18:16:50,442 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 18:16:50] "POST /api/users/reset_password HTTP/1.1" 200 -
+2024-06-30 18:17:36,100 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\tools.py', reloading
+2024-06-30 18:17:36,189 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:17:37,124 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:17:37,127 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:17:47,770 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\tools.py', reloading
+2024-06-30 18:17:47,848 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:17:48,742 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:17:48,745 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:18:36,362 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\handler\\error_messages.py', reloading
+2024-06-30 18:18:36,450 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:18:37,265 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:18:37,268 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:23:42,252 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\sendEmail.py', reloading
+2024-06-30 18:23:42,375 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:23:43,225 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:23:43,229 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:24:33,896 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\sendEmail.py', reloading
+2024-06-30 18:24:33,979 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:24:34,879 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:24:34,882 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:24:48,719 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\sendEmail.py', reloading
+2024-06-30 18:24:48,817 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:24:49,873 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:24:49,876 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:25:09,924 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\config\\config.py', reloading
+2024-06-30 18:25:10,008 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:25:11,036 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:25:11,039 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:26:13,392 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\config\\config.py', reloading
+2024-06-30 18:26:13,442 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:26:14,006 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:26:14,008 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:26:31,588 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\config\\config.py', reloading
+2024-06-30 18:26:31,638 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:26:32,243 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:26:32,245 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:26:42,649 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\config\\config.py', reloading
+2024-06-30 18:26:42,708 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:26:43,175 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:26:43,177 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:26:52,523 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\config\\config.py', reloading
+2024-06-30 18:26:52,586 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:26:53,037 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 18:26:53,039 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 18:29:03,853 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\config\\config.py', reloading
+2024-06-30 18:29:03,913 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 19:23:03,077 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 19:23:03,078 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 19:23:03,079 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 19:23:03,552 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 19:23:03,553 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 19:23:34,327 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 19:23:34] "[35m[1mPOST /api/users/register HTTP/1.1[0m" 500 -
+2024-06-30 19:25:18,264 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 19:25:18,315 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 19:25:18,772 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 19:25:18,774 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 19:25:19,901 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 19:25:19,987 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 19:25:20,524 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 19:25:20,526 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 19:25:23,941 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 19:25:23] "POST /api/users/register HTTP/1.1" 200 -
+2024-06-30 19:25:45,579 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 19:25:45] "[35m[1mPOST /api/users/register HTTP/1.1[0m" 500 -
+2024-06-30 19:26:20,449 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 19:26:20,500 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 19:26:20,956 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 19:26:20,957 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 19:26:32,027 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 19:26:32] "POST /api/users/register HTTP/1.1" 200 -
+2024-06-30 19:30:13,394 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\initialize.py', reloading
+2024-06-30 19:30:13,446 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 19:30:13,890 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 19:30:13,892 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 19:30:58,359 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\sendEmail.py', reloading
+2024-06-30 19:30:58,431 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 19:30:59,030 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 19:30:59,032 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 19:31:00,132 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\sendEmail.py', reloading
+2024-06-30 19:31:00,211 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 19:31:00,703 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 19:31:00,704 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 19:31:07,980 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\sendEmail.py', reloading
+2024-06-30 19:31:08,027 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 19:31:08,486 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 19:31:08,487 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 19:32:03,198 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 19:32:03,283 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 19:32:03,732 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 19:32:03,734 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 19:32:06,883 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 19:32:06,964 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 19:32:07,424 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 19:32:07,425 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 19:32:17,775 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 19:32:17,852 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 19:32:18,336 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 19:32:18,337 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 19:38:14,918 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 19:38:14,994 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 19:38:15,535 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 19:38:15,537 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 19:38:19,749 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 19:38:19,799 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 19:38:20,253 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 19:38:20,254 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 19:38:25,490 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 19:38:25,572 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 19:38:26,034 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 19:38:26,036 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 19:39:52,798 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 19:39:52,847 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 19:39:53,308 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 19:39:53,310 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 19:41:32,406 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 19:41:32,458 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 19:41:32,885 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 19:41:32,886 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 20:50:32,212 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 20:50:32,285 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 20:50:32,721 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 20:50:32,722 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 20:52:13,798 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 20:52:13,880 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 20:52:14,332 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 20:52:14,334 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 20:52:26,792 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\model\\UserModel.py', reloading
+2024-06-30 20:52:26,878 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 20:52:27,434 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 20:52:27,436 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 20:53:30,863 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 20:53:30,949 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 20:53:31,514 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 20:53:31,516 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 20:55:26,795 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 20:55:26,852 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 20:55:27,292 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 20:55:27,294 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 20:55:44,990 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 20:55:45,063 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:01:58,453 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 21:01:58,454 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 21:01:58,455 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:01:58,911 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:01:58,912 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:02:15,536 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 21:02:15,580 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:02:16,057 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:02:16,058 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:02:26,396 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 21:02:26,465 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:02:26,930 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:02:26,932 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:03:05,280 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:03:05,361 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:03:05,865 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:03:05,867 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:03:20,440 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:03:20,510 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:03:20,971 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:03:20,973 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:04:16,373 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:04:16,444 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:04:16,911 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:04:16,913 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:05:06,563 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:05:06,651 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:05:07,111 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:05:07,112 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:07:49,206 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\config\\config.py', reloading
+2024-06-30 21:07:49,257 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:07:49,898 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:07:49,900 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:08:13,716 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:08:13,772 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:08:14,223 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:08:14,225 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:09:41,285 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 21:09:41] "[35m[1mPOST /api/users/request_password_reset HTTP/1.1[0m" 500 -
+2024-06-30 21:09:58,777 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 21:09:58,781 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 21:09:58,783 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:09:59,208 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:09:59,209 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:10:03,278 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 21:10:03] "[35m[1mPOST /api/users/request_password_reset HTTP/1.1[0m" 500 -
+2024-06-30 21:11:00,723 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:11:00,773 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:11:01,204 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:11:01,206 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:11:17,763 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:11:17,808 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:11:18,311 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:11:18,312 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:11:20,457 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:11:20,548 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:11:21,126 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:11:21,128 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:11:29,595 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 21:11:29] "[35m[1mPOST /api/users/request_password_reset HTTP/1.1[0m" 500 -
+2024-06-30 21:11:59,409 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\initialize.py', reloading
+2024-06-30 21:11:59,492 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:12:00,002 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:12:00,004 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:12:10,378 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\config\\config.py', reloading
+2024-06-30 21:12:10,453 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:12:39,741 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 21:12:39,744 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 21:12:39,745 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:12:40,175 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:12:40,177 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:12:48,943 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 21:12:48] "[35m[1mPOST /api/users/request_password_reset HTTP/1.1[0m" 500 -
+2024-06-30 21:13:52,771 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 21:13:52,772 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 21:13:52,774 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:13:53,215 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:13:53,216 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:13:57,602 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 21:13:57] "[35m[1mPOST /api/users/request_password_reset HTTP/1.1[0m" 500 -
+2024-06-30 21:15:08,565 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 21:15:08,569 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 21:15:08,571 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:15:08,998 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:15:08,999 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:15:12,281 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 21:15:12] "POST /api/users/request_password_reset HTTP/1.1" 200 -
+2024-06-30 21:19:05,435 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:19:05,496 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:19:05,990 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:19:05,992 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:19:19,494 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:19:19,573 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:19:20,051 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:19:20,053 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:19:24,234 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:19:24,297 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:19:24,856 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:19:24,858 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:19:28,017 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:19:28,084 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:19:28,546 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:19:28,548 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:19:29,629 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:19:29,692 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:19:30,123 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:19:30,124 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:19:43,616 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:19:43,670 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:19:44,185 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:19:44,186 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:19:59,731 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:19:59,787 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:20:00,311 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:20:00,313 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:20:01,419 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:20:01,505 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:20:02,000 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:20:02,002 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:20:11,319 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:20:11,379 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:20:11,830 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:20:11,831 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:20:46,061 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:20:46,116 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:20:46,581 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:20:46,583 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:20:48,704 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:20:48,784 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:20:49,224 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:20:49,225 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:20:57,547 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:20:57,613 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:20:58,073 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:20:58,075 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:21:17,775 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:21:17,826 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:21:18,295 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:21:18,297 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:21:36,927 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:21:36,985 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:21:37,474 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:21:37,475 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:21:45,782 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:21:45,827 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:21:46,308 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:21:46,309 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:22:29,724 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:22:29,784 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:22:30,241 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:22:30,243 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:22:34,424 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:22:34,496 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:22:34,976 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:22:34,977 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:22:55,620 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 21:22:55] "POST /api/users/request_password_reset HTTP/1.1" 200 -
+2024-06-30 21:23:27,226 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 21:23:27] "POST /api/users/request_password_reset HTTP/1.1" 200 -
+2024-06-30 21:24:26,853 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:24:26,941 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:24:27,464 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:24:27,466 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:24:51,279 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:24:51,329 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:24:51,825 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:24:51,827 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:24:57,034 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:24:57,095 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:24:57,530 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:24:57,532 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:25:27,510 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 21:25:27,556 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:25:28,008 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:25:28,010 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:28:08,185 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 21:28:08,246 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:28:08,827 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:28:08,829 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:28:22,418 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 21:28:22,482 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:28:23,044 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:28:23,046 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:28:42,711 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 21:28:42,786 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:28:43,308 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:28:43,310 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:29:01,946 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\handler\\error_messages.py', reloading
+2024-06-30 21:29:02,037 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:29:02,582 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:29:02,583 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:29:05,730 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 21:29:05,805 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:29:06,314 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:29:06,316 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:29:11,526 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 21:29:11,569 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:29:12,028 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:29:12,030 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:29:26,585 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 21:29:26,630 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:29:27,102 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:29:27,104 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:29:37,601 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:29:37,658 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:29:38,262 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:29:38,263 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:30:17,644 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:30:17,708 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:30:18,231 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:30:18,233 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:30:28,605 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:30:28,669 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:30:29,223 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:30:29,224 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:30:33,399 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:30:33,442 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:30:34,042 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:30:34,044 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:30:39,287 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:30:39,356 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:30:39,808 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:30:39,810 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:58:19,866 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:58:19,967 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:58:20,576 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:58:20,578 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:58:28,889 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:58:28,975 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:58:29,453 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:58:29,455 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:59:15,061 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:59:15,132 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:59:15,591 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:59:15,593 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:59:16,678 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:59:16,724 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:59:17,297 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:59:17,299 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:59:44,191 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:59:44,280 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:59:44,830 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:59:44,833 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 21:59:45,922 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 21:59:45,984 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 21:59:46,441 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 21:59:46,442 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:00:15,474 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 22:00:15,535 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:00:15,968 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:00:15,970 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:00:34,730 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 22:00:34,774 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:00:35,214 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:00:35,216 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:00:59,084 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 22:00:59,178 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:00:59,653 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:00:59,655 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:01:13,180 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 22:01:13,227 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:01:13,841 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:01:13,845 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:01:23,256 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\service\\UserService.py', reloading
+2024-06-30 22:01:23,301 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:08:50,235 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 22:08:50,240 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 22:08:50,242 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:08:50,659 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:08:50,661 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:08:56,421 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:08:56] "POST /api/users/forgot_password HTTP/1.1" 200 -
+2024-06-30 22:09:08,748 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:09:08] "POST /api/users/forgot_password HTTP/1.1" 200 -
+2024-06-30 22:09:32,063 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\initialize.py', reloading
+2024-06-30 22:09:32,123 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:09:32,580 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:09:32,582 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:09:34,687 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\initialize.py', reloading
+2024-06-30 22:09:34,737 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:09:35,161 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:09:35,163 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:09:50,756 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 22:09:50,823 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:09:51,261 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:09:51,262 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:09:55,199 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:09:55] "POST /api/users/forgot_password HTTP/1.1" 200 -
+2024-06-30 22:09:58,543 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 22:09:58,605 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:09:59,060 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:09:59,062 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:10:01,975 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:10:01] "POST /api/users/forgot_password HTTP/1.1" 200 -
+2024-06-30 22:10:40,610 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 22:10:40,611 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 22:10:40,612 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:10:41,228 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:10:41,230 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:10:43,126 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:10:43] "POST /api/users/forgot_password HTTP/1.1" 200 -
+2024-06-30 22:11:04,880 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:11:04] "POST /api/users/forgot_password HTTP/1.1" 200 -
+2024-06-30 22:11:10,256 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:11:10] "POST /api/users/login HTTP/1.1" 200 -
+2024-06-30 22:11:13,952 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:11:13] "POST /api/users/reset_password HTTP/1.1" 200 -
+2024-06-30 22:11:28,273 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:11:28] "POST /api/users/request_password_reset HTTP/1.1" 200 -
+2024-06-30 22:11:34,787 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:11:34] "POST /api/users/forgot_password HTTP/1.1" 200 -
+2024-06-30 22:11:43,340 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\ErrorController.py', reloading
+2024-06-30 22:11:43,387 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:11:43,972 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:11:43,974 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:11:46,831 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:11:46] "[31m[1mPOST /api/users/forgot_password HTTP/1.1[0m" 405 -
+2024-06-30 22:11:52,286 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\ErrorController.py', reloading
+2024-06-30 22:11:52,358 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:11:52,807 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:11:52,809 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:12:18,873 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:12:18] "POST /api/users/forgot_password HTTP/1.1" 200 -
+2024-06-30 22:13:31,747 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:13:31] "POST /api/users/forgot_password HTTP/1.1" 200 -
+2024-06-30 22:14:33,695 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 22:14:33,770 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:14:34,198 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:14:34,200 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:14:35,891 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:14:35] "POST /api/users/forgot_password HTTP/1.1" 200 -
+2024-06-30 22:14:38,827 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:14:38] "POST /api/users/forgot_password HTTP/1.1" 200 -
+2024-06-30 22:15:09,062 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:15:09] "POST /api/users/forgot_password HTTP/1.1" 200 -
+2024-06-30 22:15:12,041 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:15:12] "POST /api/users/forgot_password HTTP/1.1" 200 -
+2024-06-30 22:15:31,747 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:15:31] "POST /api/users/login HTTP/1.1" 200 -
+2024-06-30 22:15:57,101 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 22:15:57,150 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:15:57,602 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:15:57,603 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:16:04,928 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 22:16:05,008 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:16:05,466 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:16:05,468 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:16:06,586 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 22:16:06,688 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:16:07,231 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:16:07,233 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:18:04,187 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 22:18:04,187 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 22:18:04,189 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:18:04,621 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:18:04,623 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:18:13,436 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:18:13] "POST /api/users/register HTTP/1.1" 200 -
+2024-06-30 22:20:59,945 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:21:00,020 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:21:00,470 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:21:00,472 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:23:46,894 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\initialize.py', reloading
+2024-06-30 22:23:46,988 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:23:47,593 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:23:47,595 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:27:01,132 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:27:01,205 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:27:01,652 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:27:01,654 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:27:20,246 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:27:20,291 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:27:20,730 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:27:20,732 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:29:12,382 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\plugins\\first\\run.py', reloading
+2024-06-30 22:29:12,427 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:29:12,873 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:29:12,876 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:29:39,835 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\plugins\\first\\run.py', reloading
+2024-06-30 22:29:39,922 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:29:40,429 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:29:40,430 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:31:55,817 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:31:55,883 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:31:56,489 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:31:56,491 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:32:14,174 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:32:14,221 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:32:14,679 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:32:14,680 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:32:44,876 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:32:44,942 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:32:45,464 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:32:45,466 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:32:46,571 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:32:46,645 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:32:47,105 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:32:47,107 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:32:52,347 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:32:52,447 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:32:52,922 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:32:52,924 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:34:07,938 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:34:07,988 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:34:08,456 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:34:08,457 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:36:10,951 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:36:11,024 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:36:11,724 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:36:11,726 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:36:33,586 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:36:33,635 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:36:34,253 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:36:34,254 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:36:42,634 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:36:42,719 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:36:43,233 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:36:43,234 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:36:46,413 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:36:46,485 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:36:46,942 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:36:46,944 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:36:54,250 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:36:54,319 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:36:54,810 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:36:54,811 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:37:57,551 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:37:57,597 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:37:58,186 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:37:58,188 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:38:10,689 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:38:10,750 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:38:11,226 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:38:11,228 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:38:19,658 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:38:19,720 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:38:20,281 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:38:20,283 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:40:09,063 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:40:09,109 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:40:09,693 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:40:09,695 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:40:23,250 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:40:23,353 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:40:23,916 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:40:23,917 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:40:39,530 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:40:39,612 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:40:40,092 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:40:40,094 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:41:47,838 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:41:47,925 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:41:48,409 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:41:48,411 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:41:49,536 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:41:49,633 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:41:50,093 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:41:50,095 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:41:56,351 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:41:56,414 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:41:56,894 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:41:56,896 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:42:15,571 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:42:15,625 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:42:16,068 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:42:16,070 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:42:25,433 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:42:25,534 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:42:26,098 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:42:26,100 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:42:30,295 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:42:30,381 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:42:30,843 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:42:30,845 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:42:34,026 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:42:34,073 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:42:34,551 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:42:34,553 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:42:36,691 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:42:36,761 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:42:37,237 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:42:37,239 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:42:49,764 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\plugins\\first\\run.py', reloading
+2024-06-30 22:42:49,833 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:42:50,313 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:42:50,315 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:43:43,089 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:43:43,134 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:43:43,598 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:43:43,600 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:43:52,980 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\utils\\plugins.py', reloading
+2024-06-30 22:43:53,051 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:43:53,506 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:43:53,507 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:47:10,610 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\config\\config.py', reloading
+2024-06-30 22:47:10,664 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:47:11,130 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:47:11,132 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:47:17,423 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\config\\config.py', reloading
+2024-06-30 22:47:17,468 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:47:17,919 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:47:17,921 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:49:04,048 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\config\\config.py', reloading
+2024-06-30 22:49:04,110 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:49:04,577 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:49:04,579 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:49:06,722 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\config\\config.py', reloading
+2024-06-30 22:49:06,790 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:49:07,312 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:49:07,313 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:49:21,904 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\config\\config.py', reloading
+2024-06-30 22:49:21,996 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:49:22,517 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:49:22,519 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:49:30,853 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\config\\config.py', reloading
+2024-06-30 22:49:30,938 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:53:49,200 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-30 22:53:49,204 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 22:53:49,206 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:53:49,674 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:53:49,676 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:54:02,014 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:54:02] "POST /api/users/login HTTP/1.1" 200 -
+2024-06-30 22:54:21,506 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:54:21] "POST /api/users/login HTTP/1.1" 200 -
+2024-06-30 22:54:24,521 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:54:24] "POST /api/users/login HTTP/1.1" 200 -
+2024-06-30 22:54:45,927 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\handler\\decorators.py', reloading
+2024-06-30 22:54:45,976 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:54:46,455 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:54:46,456 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:54:48,856 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:54:48] "POST /api/users/login HTTP/1.1" 200 -
+2024-06-30 22:54:56,942 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\handler\\decorators.py', reloading
+2024-06-30 22:54:56,989 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:54:57,442 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:54:57,444 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:55:13,039 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\handler\\decorators.py', reloading
+2024-06-30 22:55:13,111 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:55:13,567 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:55:13,568 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:55:15,527 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:55:15] "POST /api/users/login HTTP/1.1" 200 -
+2024-06-30 22:55:35,500 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\handler\\decorators.py', reloading
+2024-06-30 22:55:35,592 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:55:36,087 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:55:36,089 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:55:37,266 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:55:37] "POST /api/users/login HTTP/1.1" 200 -
+2024-06-30 22:55:48,220 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:55:48] "POST /api/users/login HTTP/1.1" 200 -
+2024-06-30 22:55:56,897 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\handler\\decorators.py', reloading
+2024-06-30 22:55:56,969 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:55:57,429 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:55:57,431 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:56:21,375 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\handler\\decorators.py', reloading
+2024-06-30 22:56:21,447 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:56:21,885 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:56:21,887 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:56:27,166 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:56:27] "POST /api/users/login HTTP/1.1" 200 -
+2024-06-30 22:56:29,813 - werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 22:56:29] "POST /api/users/login HTTP/1.1" 200 -
+2024-06-30 22:56:33,380 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\handler\\decorators.py', reloading
+2024-06-30 22:56:33,467 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 22:56:34,039 - werkzeug - WARNING -  * Debugger is active!
+2024-06-30 22:56:34,041 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-30 22:57:08,268 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-30 22:57:08,354 - werkzeug - INFO -  * Restarting with stat

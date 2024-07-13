@@ -1,0 +1,186 @@
+2024-06-29 09:28:44,610 - __main__ - INFO - This is an info message.
+2024-06-29 09:28:44,610 - __main__ - WARNING - This is a warning message.
+2024-06-29 09:28:44,610 - __main__ - ERROR - This is an error message.
+2024-06-29 09:33:57,685 - __main__ - INFO - ¹¹½¨´úÂë...
+2024-06-29 09:33:58,753 - __main__ - INFO - ¹¹½¨Íê³É.
+2024-06-29 09:34:34,789 - __main__ - INFO - ¹¹½¨´úÂë...
+2024-06-29 09:34:35,748 - __main__ - INFO - ¹¹½¨Íê³É.
+2024-06-29 09:52:57,426 - __main__ - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-29 09:52:59,628 - __main__ - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-29 09:53:04,019 - __main__ - INFO - ¹¹½¨Íê³É£¡
+2024-06-29 10:06:52,303 - __main__ - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-29 10:06:54,452 - __main__ - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-29 10:06:58,865 - __main__ - INFO - ¹¹½¨Íê³É£¡
+2024-06-29 10:08:16,755 - __main__ - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-29 10:08:18,929 - __main__ - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-29 10:08:23,317 - __main__ - INFO - ¹¹½¨Íê³É£¡
+2024-06-29 10:16:37,753 - werkzeug - WARNING -  * Debugger is active!
+2024-06-29 10:16:37,761 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-29 10:17:24,474 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\initialize.py', reloading
+2024-06-29 10:17:24,988 - build - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-29 10:17:27,367 - build - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-29 10:17:31,814 - build - INFO - ¹¹½¨Íê³É£¡
+2024-06-29 10:17:31,826 - werkzeug - WARNING -  * Debugger is active!
+2024-06-29 10:17:31,828 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-29 10:17:39,846 - build - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-29 10:17:42,137 - build - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-29 10:17:46,511 - build - INFO - ¹¹½¨Íê³É£¡
+2024-06-29 10:17:46,532 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-29 10:17:46,532 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-29 10:17:46,534 - werkzeug - INFO -  * Restarting with stat
+2024-06-29 10:17:47,018 - build - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-29 10:17:49,222 - build - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-29 10:17:53,772 - build - INFO - ¹¹½¨Íê³É£¡
+2024-06-29 10:17:53,784 - werkzeug - WARNING -  * Debugger is active!
+2024-06-29 10:17:53,787 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-29 10:17:53,815 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:17:53] "GET / HTTP/1.1" 200 -
+2024-06-29 10:17:53,944 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:17:53] "GET /assets/index-D6pr4OYR.css HTTP/1.1" 200 -
+2024-06-29 10:17:53,945 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:17:53] "GET /assets/index-BOeIANbt.js HTTP/1.1" 200 -
+2024-06-29 10:17:59,286 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:17:59] "GET /assets/AboutView-xR1q-qm8.js HTTP/1.1" 200 -
+2024-06-29 10:17:59,286 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:17:59] "GET /assets/AboutView-C6Dx7pxG.css HTTP/1.1" 200 -
+2024-06-29 10:18:00,993 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:18:00] "[33mGET /about HTTP/1.1[0m" 404 -
+2024-06-29 10:18:01,098 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:18:01] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-06-29 10:18:02,961 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:18:02] "[33mGET /about HTTP/1.1[0m" 404 -
+2024-06-29 10:18:03,052 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:18:03] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-06-29 10:18:04,407 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:18:04] "GET / HTTP/1.1" 200 -
+2024-06-29 10:18:04,452 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:18:04] "[36mGET /assets/index-D6pr4OYR.css HTTP/1.1[0m" 304 -
+2024-06-29 10:18:04,452 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:18:04] "[36mGET /assets/index-BOeIANbt.js HTTP/1.1[0m" 304 -
+2024-06-29 10:18:04,500 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:18:04] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-06-29 10:18:05,578 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:18:05] "[36mGET /assets/AboutView-xR1q-qm8.js HTTP/1.1[0m" 304 -
+2024-06-29 10:18:05,579 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:18:05] "[36mGET /assets/AboutView-C6Dx7pxG.css HTTP/1.1[0m" 304 -
+2024-06-29 10:18:35,241 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-29 10:18:35,297 - werkzeug - INFO -  * Restarting with stat
+2024-06-29 10:18:35,749 - build - INFO - ÕýÔÚ°²×°ËùÐèÒÀÀµ...
+2024-06-29 10:18:37,935 - build - INFO - ÕýÔÚ¹¹½¨³ÌÐò...
+2024-06-29 10:18:42,576 - build - INFO - ¹¹½¨Íê³É£¡
+2024-06-29 10:18:42,588 - werkzeug - WARNING -  * Debugger is active!
+2024-06-29 10:18:42,591 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-29 10:18:46,204 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:18:46] "[35m[1mGET /about HTTP/1.1[0m" 500 -
+2024-06-29 10:18:46,311 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:18:46] "GET /about?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-06-29 10:18:46,316 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:18:46] "GET /about?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-06-29 10:18:46,348 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:18:46] "GET /about?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-06-29 10:18:46,375 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:18:46] "[36mGET /about?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-29 10:18:47,154 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:18:47] "[35m[1mGET /about HTTP/1.1[0m" 500 -
+2024-06-29 10:18:47,190 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:18:47] "[36mGET /about?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-29 10:18:47,196 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:18:47] "[36mGET /about?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-29 10:18:47,221 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:18:47] "[36mGET /about?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-29 10:18:47,242 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:18:47] "[36mGET /about?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-29 10:19:12,568 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\initialize.py', reloading
+2024-06-29 10:19:12,610 - werkzeug - INFO -  * Restarting with stat
+2024-06-29 10:19:13,090 - werkzeug - WARNING -  * Debugger is active!
+2024-06-29 10:19:13,093 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-29 10:19:20,351 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\initialize.py', reloading
+2024-06-29 10:19:20,402 - werkzeug - INFO -  * Restarting with stat
+2024-06-29 10:19:20,893 - werkzeug - WARNING -  * Debugger is active!
+2024-06-29 10:19:20,896 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-29 10:19:27,166 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-29 10:19:27,202 - werkzeug - INFO -  * Restarting with stat
+2024-06-29 10:19:36,287 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-29 10:19:36,291 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-29 10:19:36,293 - werkzeug - INFO -  * Restarting with stat
+2024-06-29 10:19:36,718 - werkzeug - WARNING -  * Debugger is active!
+2024-06-29 10:19:36,721 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-29 10:19:39,176 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:19:39] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-29 10:19:39,275 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:19:39] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-06-29 10:19:39,284 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:19:39] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-06-29 10:19:39,323 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:19:39] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-06-29 10:19:39,377 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:19:39] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-29 10:19:58,379 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-29 10:19:58,422 - werkzeug - INFO -  * Restarting with stat
+2024-06-29 10:19:58,928 - werkzeug - WARNING -  * Debugger is active!
+2024-06-29 10:19:58,931 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-29 10:20:04,122 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-29 10:20:04,160 - werkzeug - INFO -  * Restarting with stat
+2024-06-29 10:20:04,669 - werkzeug - WARNING -  * Debugger is active!
+2024-06-29 10:20:04,673 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-29 10:20:10,709 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:20:10] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-29 10:20:10,822 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:20:10] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-29 10:20:10,824 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:20:10] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-29 10:20:10,839 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:20:10] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-29 10:20:10,907 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:20:10] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-29 10:20:12,973 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-29 10:20:13,026 - werkzeug - INFO -  * Restarting with stat
+2024-06-29 10:20:13,544 - werkzeug - WARNING -  * Debugger is active!
+2024-06-29 10:20:13,546 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-29 10:20:23,896 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-29 10:20:23,938 - werkzeug - INFO -  * Restarting with stat
+2024-06-29 10:20:24,441 - werkzeug - WARNING -  * Debugger is active!
+2024-06-29 10:20:24,444 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-29 10:20:31,230 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:20:31] "GET /assets/AboutView-C6Dx7pxG.css HTTP/1.1" 200 -
+2024-06-29 10:20:31,232 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:20:31] "GET /assets/AboutView-xR1q-qm8.js HTTP/1.1" 200 -
+2024-06-29 10:20:31,267 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:20:31] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-06-29 10:20:31,757 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:20:31] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-06-29 10:20:40,974 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-29 10:20:40,975 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-29 10:20:40,977 - werkzeug - INFO -  * Restarting with stat
+2024-06-29 10:20:41,509 - werkzeug - WARNING -  * Debugger is active!
+2024-06-29 10:20:41,512 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-29 10:23:10,938 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\app.py', reloading
+2024-06-29 10:23:11,031 - werkzeug - INFO -  * Restarting with stat
+2024-06-29 10:23:11,531 - werkzeug - WARNING -  * Debugger is active!
+2024-06-29 10:23:11,534 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-29 10:23:11,559 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:11] "GET / HTTP/1.1" 200 -
+2024-06-29 10:23:11,696 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:11] "GET /assets/index-BOeIANbt.js HTTP/1.1" 200 -
+2024-06-29 10:23:11,697 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:11] "GET /assets/index-D6pr4OYR.css HTTP/1.1" 200 -
+2024-06-29 10:23:11,907 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:11] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-06-29 10:23:14,693 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:14] "GET / HTTP/1.1" 200 -
+2024-06-29 10:23:14,734 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:14] "[36mGET /assets/index-D6pr4OYR.css HTTP/1.1[0m" 304 -
+2024-06-29 10:23:14,735 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:14] "[36mGET /assets/index-BOeIANbt.js HTTP/1.1[0m" 304 -
+2024-06-29 10:23:14,776 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:14] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-06-29 10:23:15,939 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:15] "[36mGET /assets/AboutView-xR1q-qm8.js HTTP/1.1[0m" 304 -
+2024-06-29 10:23:15,940 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:15] "[36mGET /assets/AboutView-C6Dx7pxG.css HTTP/1.1[0m" 304 -
+2024-06-29 10:23:16,913 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:16] "GET /about HTTP/1.1" 200 -
+2024-06-29 10:23:16,985 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:16] "[36mGET /assets/index-BOeIANbt.js HTTP/1.1[0m" 304 -
+2024-06-29 10:23:16,988 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:16] "[36mGET /assets/index-D6pr4OYR.css HTTP/1.1[0m" 304 -
+2024-06-29 10:23:17,010 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:17] "[36mGET /assets/AboutView-C6Dx7pxG.css HTTP/1.1[0m" 304 -
+2024-06-29 10:23:17,011 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:17] "[36mGET /assets/AboutView-xR1q-qm8.js HTTP/1.1[0m" 304 -
+2024-06-29 10:23:17,054 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:17] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-06-29 10:23:17,967 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:17] "GET /about HTTP/1.1" 200 -
+2024-06-29 10:23:18,029 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:18] "[36mGET /assets/index-BOeIANbt.js HTTP/1.1[0m" 304 -
+2024-06-29 10:23:18,030 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:18] "[36mGET /assets/index-D6pr4OYR.css HTTP/1.1[0m" 304 -
+2024-06-29 10:23:18,050 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:18] "[36mGET /assets/AboutView-xR1q-qm8.js HTTP/1.1[0m" 304 -
+2024-06-29 10:23:18,052 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:18] "[36mGET /assets/AboutView-C6Dx7pxG.css HTTP/1.1[0m" 304 -
+2024-06-29 10:23:18,111 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:23:18] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2024-06-29 10:33:39,466 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:33:39] "OPTIONS /user/refresh-token HTTP/1.1" 200 -
+2024-06-29 10:36:14,251 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 10:36:14] "OPTIONS /user/login HTTP/1.1" 200 -
+2024-06-29 10:36:54,858 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\initialize.py', reloading
+2024-06-29 10:36:54,917 - werkzeug - INFO -  * Restarting with stat
+2024-06-29 11:17:48,791 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-29 11:17:48,795 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-29 11:17:48,797 - werkzeug - INFO -  * Restarting with stat
+2024-06-29 11:17:49,546 - werkzeug - WARNING -  * Debugger is active!
+2024-06-29 11:17:49,549 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-29 11:17:50,561 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 11:17:50] "GET / HTTP/1.1" 200 -
+2024-06-29 11:17:50,685 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 11:17:50] "[36mGET /assets/index-BOeIANbt.js HTTP/1.1[0m" 304 -
+2024-06-29 11:17:50,686 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 11:17:50] "[36mGET /assets/index-D6pr4OYR.css HTTP/1.1[0m" 304 -
+2024-06-29 11:17:57,522 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 11:17:57] "GET /user/login HTTP/1.1" 200 -
+2024-06-29 11:17:57,589 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 11:17:57] "GET /user/assets/index-BOeIANbt.js HTTP/1.1" 200 -
+2024-06-29 11:17:57,590 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 11:17:57] "GET /user/assets/index-D6pr4OYR.css HTTP/1.1" 200 -
+2024-06-29 11:17:57,638 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 11:17:57] "GET /user/favicon.ico HTTP/1.1" 200 -
+2024-06-29 11:18:16,665 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\blog\\src\\controller\\UserController.py', reloading
+2024-06-29 11:18:16,751 - werkzeug - INFO -  * Restarting with stat
+2024-06-29 11:26:19,751 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-06-29 11:26:19,753 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-29 11:26:19,754 - werkzeug - INFO -  * Restarting with stat
+2024-06-29 11:26:20,601 - werkzeug - WARNING -  * Debugger is active!
+2024-06-29 11:26:20,604 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-06-29 11:26:34,440 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 11:26:34] "[35m[1mGET /user/login HTTP/1.1[0m" 500 -
+2024-06-29 11:26:34,571 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 11:26:34] "GET /user/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-06-29 11:26:34,572 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 11:26:34] "GET /user/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-06-29 11:26:34,626 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 11:26:34] "GET /user/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-06-29 11:26:34,719 - werkzeug - INFO - 127.0.0.1 - - [29/Jun/2024 11:26:34] "[36mGET /user/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

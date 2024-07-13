@@ -1,0 +1,38 @@
+2024-07-13 21:14:12,099 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-07-13 21:14:12,101 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-13 21:14:12,102 - werkzeug - INFO -  * Restarting with stat
+2024-07-13 21:14:12,583 - werkzeug - WARNING -  * Debugger is active!
+2024-07-13 21:14:12,586 - werkzeug - INFO -  * Debugger PIN: 110-438-574
+2024-07-13 21:14:16,564 - werkzeug - INFO - 127.0.0.1 - - [13/Jul/2024 21:14:16] "GET / HTTP/1.1" 200 -
+2024-07-13 21:14:16,664 - werkzeug - INFO - 127.0.0.1 - - [13/Jul/2024 21:14:16] "GET /favicon.ico HTTP/1.1" 200 -
+2024-07-13 21:14:39,874 - werkzeug - INFO -  * Detected change in 'c:\\Users\\Linh\\Documents\\Code\\Python\\flask-initializes-the-project\\src\\controller\\CategorieController.py', reloading
+2024-07-13 21:14:39,972 - werkzeug - INFO -  * Restarting with stat
+2024-07-13 21:14:40,450 - werkzeug - WARNING -  * Debugger is active!
+2024-07-13 21:14:40,452 - werkzeug - INFO -  * Debugger PIN: 110-438-574
+2024-07-13 21:15:05,196 - werkzeug - INFO -  * Detected change in 'c:\\Users\\Linh\\Documents\\Code\\Python\\flask-initializes-the-project\\src\\controller\\UserController.py', reloading
+2024-07-13 21:15:05,268 - werkzeug - INFO -  * Restarting with stat
+2024-07-13 21:15:05,763 - werkzeug - WARNING -  * Debugger is active!
+2024-07-13 21:15:05,766 - werkzeug - INFO -  * Debugger PIN: 110-438-574
+2024-07-13 21:15:07,981 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\flask-initializes-the-project\\src\\controller\\UserController.py', reloading
+2024-07-13 21:15:08,059 - werkzeug - INFO -  * Restarting with stat
+2024-07-13 21:15:08,538 - werkzeug - WARNING -  * Debugger is active!
+2024-07-13 21:15:08,541 - werkzeug - INFO -  * Debugger PIN: 110-438-574
+2024-07-13 21:15:10,781 - werkzeug - INFO -  * Detected change in 'c:\\Users\\Linh\\Documents\\Code\\Python\\flask-initializes-the-project\\src\\controller\\UserController.py', reloading
+2024-07-13 21:15:10,850 - werkzeug - INFO -  * Restarting with stat
+2024-07-13 21:15:11,312 - werkzeug - WARNING -  * Debugger is active!
+2024-07-13 21:15:11,314 - werkzeug - INFO -  * Debugger PIN: 110-438-574
+2024-07-13 21:15:13,537 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\flask-initializes-the-project\\src\\controller\\UserController.py', reloading
+2024-07-13 21:15:13,618 - werkzeug - INFO -  * Restarting with stat
+2024-07-13 21:15:14,081 - werkzeug - WARNING -  * Debugger is active!
+2024-07-13 21:15:14,084 - werkzeug - INFO -  * Debugger PIN: 110-438-574
+2024-07-13 21:17:04,815 - werkzeug - INFO -  * Detected change in 'c:\\Users\\Linh\\Documents\\Code\\Python\\flask-initializes-the-project\\src\\controller\\CategorieController.py', reloading
+2024-07-13 21:17:04,902 - werkzeug - INFO -  * Restarting with stat
+2024-07-13 21:17:05,733 - werkzeug - WARNING -  * Debugger is active!
+2024-07-13 21:17:05,737 - werkzeug - INFO -  * Debugger PIN: 110-438-574
+2024-07-13 21:17:12,534 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\flask-initializes-the-project\\generate_project_structure.py', reloading
+2024-07-13 21:17:12,618 - werkzeug - INFO -  * Restarting with stat
+2024-07-13 21:17:13,426 - werkzeug - WARNING -  * Debugger is active!
+2024-07-13 21:17:13,430 - werkzeug - INFO -  * Debugger PIN: 110-438-574

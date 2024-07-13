@@ -1,0 +1,51 @@
+### 登录用户请求示例
+
+POST http://127.0.0.1:8000/api/users/login HTTP/1.1
+Content-Type: application/json
+
+{
+  "email": "user1@example.com",
+  "password": "password123"
+}
+
+### 注册用户请求示例
+
+POST http://127.0.0.1:8000/api/users/register HTTP/1.1
+Content-Type: application/json
+
+{
+  "username": "newuser",
+  "email": "newuser@example.com",
+  "password": "newpassword456"
+}
+
+### 重置用户密码请求示例
+
+POST http://127.0.0.1:8000/api/users/reset_password HTTP/1.1
+Content-Type: application/json
+
+{
+  "email": "user1@example.com",
+  "old_password": "password123",
+  "new_password": "newpassword789"
+}
+
+### 请求密码重置令牌请求示例
+
+POST http://127.0.0.1:8000/api/users/request_password_reset HTTP/1.1
+Content-Type: application/json
+
+{
+  "email": "user1@example.com"
+}
+
+### 忘记密码重置请求示例
+
+POST http://127.0.0.1:8000/api/users/forgot_password HTTP/1.1
+Content-Type: application/json
+
+{
+  "email": "user1@example.com",
+  "code": "123456",
+  "password": "newpassword789"
+}

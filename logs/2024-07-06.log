@@ -1,0 +1,329 @@
+2024-07-06 22:11:53,390 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7426
+ * Running on http://192.168.1.5:7426
+2024-07-06 22:11:53,390 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-06 22:11:53,392 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:11:53,857 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 22:11:53,859 - werkzeug - INFO -  * Debugger PIN: 114-272-805
+2024-07-06 22:12:46,656 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7426
+ * Running on http://192.168.1.5:7426
+2024-07-06 22:12:46,656 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-06 22:12:46,658 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:12:47,407 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 22:12:47,409 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 22:13:04,173 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\app.py', reloading
+2024-07-06 22:13:04,255 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:13:04,707 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 22:13:04,709 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 22:13:21,489 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\app.py', reloading
+2024-07-06 22:13:21,547 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:13:21,974 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 22:13:21,976 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 22:13:25,133 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\app.py', reloading
+2024-07-06 22:13:25,205 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:13:25,615 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 22:13:25,617 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 22:18:21,356 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\controller\\SettingController.py', reloading
+2024-07-06 22:18:21,447 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:18:21,876 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 22:18:21,878 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 22:18:59,494 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\handler\\status.py', reloading
+2024-07-06 22:18:59,536 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:18:59,949 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 22:18:59,950 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 22:19:07,327 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\handler\\status.py', reloading
+2024-07-06 22:19:07,369 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:19:07,753 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 22:19:07,754 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 22:20:28,159 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\utils\\cache.py', reloading
+2024-07-06 22:20:28,240 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:53:10,678 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-07-06 22:53:10,678 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-06 22:53:10,680 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:53:11,067 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 22:53:11,069 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 22:53:54,079 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 22:53:54] "GET /api/settings/ HTTP/1.1" 200 -
+2024-07-06 22:54:24,665 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\initialize.py', reloading
+2024-07-06 22:54:24,713 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:55:09,932 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-07-06 22:55:09,934 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-06 22:55:09,935 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:55:10,345 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 22:55:10,347 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 22:55:15,929 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 22:55:15] "GET /api/settings/ HTTP/1.1" 200 -
+2024-07-06 22:55:33,332 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\controller\\SettingController.py', reloading
+2024-07-06 22:55:33,400 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:55:33,836 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 22:55:33,838 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 22:56:08,540 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 22:56:08] "POST /api/settings/ HTTP/1.1" 200 -
+2024-07-06 22:56:45,474 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 22:56:45] "POST /api/settings/ HTTP/1.1" 200 -
+2024-07-06 22:57:01,810 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 22:57:01] "POST /api/settings/ HTTP/1.1" 200 -
+2024-07-06 22:57:26,089 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\SettingService.py', reloading
+2024-07-06 22:57:26,137 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:57:37,918 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-07-06 22:57:37,923 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-06 22:57:37,924 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:57:38,324 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 22:57:38,326 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 22:57:41,818 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 22:57:41] "POST /api/settings/ HTTP/1.1" 200 -
+2024-07-06 22:58:04,565 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\SettingService.py', reloading
+2024-07-06 22:58:04,620 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:58:05,057 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 22:58:05,058 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 22:58:08,234 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\SettingService.py', reloading
+2024-07-06 22:58:08,302 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:58:08,751 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 22:58:08,753 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 22:58:10,722 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 22:58:10] "POST /api/settings/ HTTP/1.1" 200 -
+2024-07-06 22:58:57,784 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\model\\SettingModel.py', reloading
+2024-07-06 22:58:57,843 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:58:58,261 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 22:58:58,263 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 22:59:08,764 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\model\\SettingModel.py', reloading
+2024-07-06 22:59:08,837 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:59:09,239 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 22:59:09,240 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 22:59:24,936 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\model\\SettingModel.py', reloading
+2024-07-06 22:59:25,014 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:59:25,419 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 22:59:25,420 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 22:59:38,022 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\SettingService.py', reloading
+2024-07-06 22:59:38,091 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:59:38,488 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 22:59:38,490 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 22:59:42,604 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 22:59:42] "[35m[1mPOST /api/settings/ HTTP/1.1[0m" 500 -
+2024-07-06 22:59:55,190 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\SettingService.py', reloading
+2024-07-06 22:59:55,265 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 22:59:55,661 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 22:59:55,662 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:00:03,052 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\SettingService.py', reloading
+2024-07-06 23:00:03,110 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:00:03,526 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:00:03,528 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:00:27,639 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\SettingService.py', reloading
+2024-07-06 23:00:27,706 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:00:28,104 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:00:28,106 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:00:30,247 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\SettingService.py', reloading
+2024-07-06 23:00:30,290 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:00:30,713 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:00:30,715 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:00:34,578 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 23:00:34] "POST /api/settings/ HTTP/1.1" 200 -
+2024-07-06 23:00:51,666 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\SettingService.py', reloading
+2024-07-06 23:00:51,741 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:00:52,172 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:00:52,174 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:00:54,478 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 23:00:54] "POST /api/settings/ HTTP/1.1" 200 -
+2024-07-06 23:01:07,928 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\SettingService.py', reloading
+2024-07-06 23:01:08,004 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:01:08,397 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:01:08,399 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:01:30,287 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\model\\SettingModel.py', reloading
+2024-07-06 23:01:30,331 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:01:30,747 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:01:30,749 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:01:34,958 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\model\\SettingModel.py', reloading
+2024-07-06 23:01:35,001 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:01:35,380 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:01:35,382 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:01:51,074 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\SettingService.py', reloading
+2024-07-06 23:01:51,149 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:01:51,544 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:01:51,545 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:02:44,712 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\initialize.py', reloading
+2024-07-06 23:02:44,755 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:02:45,199 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:02:45,201 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:03:51,487 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\SettingService.py', reloading
+2024-07-06 23:03:51,583 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:03:51,999 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:03:52,001 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:03:58,319 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\SettingService.py', reloading
+2024-07-06 23:03:58,363 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:03:58,787 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:03:58,789 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:04:18,674 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\controller\\SettingController.py', reloading
+2024-07-06 23:04:18,720 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:04:19,097 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:04:19,099 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:04:22,280 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\controller\\SettingController.py', reloading
+2024-07-06 23:04:22,349 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:04:22,750 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:04:22,753 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:04:26,971 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 23:04:26] "POST /api/settings/ HTTP/1.1" 200 -
+2024-07-06 23:04:28,249 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 23:04:28] "POST /api/settings/ HTTP/1.1" 200 -
+2024-07-06 23:04:34,261 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\controller\\SettingController.py', reloading
+2024-07-06 23:04:34,306 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:04:34,692 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:04:34,694 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:04:57,613 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\controller\\SettingController.py', reloading
+2024-07-06 23:04:57,697 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:04:58,107 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:04:58,109 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:04:59,206 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\SettingService.py', reloading
+2024-07-06 23:04:59,270 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:04:59,654 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:04:59,655 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:05:04,928 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\SettingService.py', reloading
+2024-07-06 23:05:04,971 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:05:05,383 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:05:05,385 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:05:12,704 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\SettingService.py', reloading
+2024-07-06 23:05:12,776 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:05:13,174 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:05:13,176 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:05:56,985 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\TagService.py', reloading
+2024-07-06 23:05:57,055 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:05:57,481 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:05:57,482 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:06:17,343 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\TagService.py', reloading
+2024-07-06 23:06:17,425 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:06:17,858 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:06:17,859 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:06:27,243 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\TagService.py', reloading
+2024-07-06 23:06:27,301 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:06:27,731 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:06:27,733 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:06:35,056 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\TagService.py', reloading
+2024-07-06 23:06:35,115 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:06:35,513 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:06:35,515 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:06:46,955 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\TagService.py', reloading
+2024-07-06 23:06:46,999 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:06:47,422 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:06:47,424 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:06:58,933 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\TagService.py', reloading
+2024-07-06 23:06:59,008 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:06:59,418 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:06:59,420 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:07:31,683 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\TagService.py', reloading
+2024-07-06 23:07:31,757 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:07:32,183 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:07:32,185 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:07:50,921 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\TagService.py', reloading
+2024-07-06 23:07:51,009 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:07:51,477 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:07:51,478 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:07:52,578 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\TagService.py', reloading
+2024-07-06 23:07:52,665 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:07:53,106 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:07:53,107 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:08:06,700 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\TagService.py', reloading
+2024-07-06 23:08:06,798 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:08:07,195 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:08:07,196 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:08:23,901 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\TagService.py', reloading
+2024-07-06 23:08:24,006 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:08:24,407 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:08:24,409 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:09:07,209 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\TagService.py', reloading
+2024-07-06 23:09:07,277 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:09:07,698 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:09:07,700 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:09:21,293 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\SettingService.py', reloading
+2024-07-06 23:09:21,361 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:09:21,755 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:09:21,756 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:09:25,976 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 23:09:25] "POST /api/settings/ HTTP/1.1" 200 -
+2024-07-06 23:10:24,006 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\SettingService.py', reloading
+2024-07-06 23:10:24,053 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:21:09,983 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-07-06 23:21:09,986 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-06 23:21:09,988 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:21:10,392 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:21:10,394 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:21:12,360 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 23:21:12] "POST /api/settings/update HTTP/1.1" 200 -
+2024-07-06 23:21:33,302 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\controller\\SettingController.py', reloading
+2024-07-06 23:21:33,370 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:21:33,754 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:21:33,756 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:21:52,958 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 23:21:52] "POST /api/settings/update HTTP/1.1" 200 -
+2024-07-06 23:22:33,967 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 23:22:33] "POST /api/settings/update HTTP/1.1" 200 -
+2024-07-06 23:22:43,573 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 23:22:43] "[35m[1mPOST /api/settings/update HTTP/1.1[0m" 500 -
+2024-07-06 23:23:51,067 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\handler\\message.py', reloading
+2024-07-06 23:23:51,155 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:23:59,096 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.5:8000
+2024-07-06 23:23:59,101 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-06 23:23:59,102 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:23:59,482 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:23:59,484 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:24:18,217 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\model\\SettingModel.py', reloading
+2024-07-06 23:24:18,265 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:24:18,695 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:24:18,697 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:24:23,728 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 23:24:23] "POST /api/settings/update HTTP/1.1" 200 -
+2024-07-06 23:24:31,119 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 23:24:31] "POST /api/settings/ HTTP/1.1" 200 -
+2024-07-06 23:24:37,288 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 23:24:37] "POST /api/settings/ HTTP/1.1" 200 -
+2024-07-06 23:25:21,680 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\model\\SettingModel.py', reloading
+2024-07-06 23:25:21,725 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:25:22,118 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:25:22,119 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:25:26,484 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 23:25:26] "POST /api/settings/ HTTP/1.1" 200 -
+2024-07-06 23:25:36,414 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 23:25:36] "POST /api/settings/ HTTP/1.1" 200 -
+2024-07-06 23:25:38,379 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 23:25:38] "POST /api/settings/update HTTP/1.1" 200 -
+2024-07-06 23:25:40,173 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 23:25:40] "POST /api/settings/ HTTP/1.1" 200 -
+2024-07-06 23:25:50,641 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\model\\SettingModel.py', reloading
+2024-07-06 23:25:50,709 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:25:51,097 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:25:51,099 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:25:54,861 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 23:25:54] "POST /api/settings/ HTTP/1.1" 200 -
+2024-07-06 23:25:59,764 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 23:25:59] "POST /api/settings/update HTTP/1.1" 200 -
+2024-07-06 23:26:14,165 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\model\\SettingModel.py', reloading
+2024-07-06 23:26:14,215 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:26:14,669 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:26:14,671 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:26:17,544 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 23:26:17] "POST /api/settings/update HTTP/1.1" 200 -
+2024-07-06 23:27:21,476 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\model\\UserModel.py', reloading
+2024-07-06 23:27:21,523 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:27:21,945 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:27:21,946 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:27:23,049 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\model\\UserModel.py', reloading
+2024-07-06 23:27:23,121 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:27:23,548 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:27:23,550 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:27:55,487 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\model\\UserModel.py', reloading
+2024-07-06 23:27:55,555 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:27:56,133 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:27:56,135 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:27:58,291 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\model\\UserModel.py', reloading
+2024-07-06 23:27:58,353 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:27:58,746 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:27:58,747 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:27:59,836 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\model\\UserModel.py', reloading
+2024-07-06 23:27:59,907 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:28:00,320 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:28:00,321 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:28:06,639 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\model\\SettingModel.py', reloading
+2024-07-06 23:28:06,700 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:28:07,082 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:28:07,083 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:28:08,175 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\model\\SettingModel.py', reloading
+2024-07-06 23:28:08,221 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:28:08,617 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:28:08,618 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:28:12,552 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 23:28:12] "POST /api/settings/update HTTP/1.1" 200 -
+2024-07-06 23:28:15,451 - werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 23:28:15] "POST /api/settings/ HTTP/1.1" 200 -
+2024-07-06 23:29:27,895 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\service\\SettingService.py', reloading
+2024-07-06 23:29:27,944 - werkzeug - INFO -  * Restarting with stat
+2024-07-06 23:29:28,333 - werkzeug - WARNING -  * Debugger is active!
+2024-07-06 23:29:28,334 - werkzeug - INFO -  * Debugger PIN: 693-817-420
+2024-07-06 23:29:57,567 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Linh\\Documents\\Code\\Python\\Blog\\flask-vue-blog-system-master\\src\\initialize.py', reloading
+2024-07-06 23:29:57,622 - werkzeug - INFO -  * Restarting with stat

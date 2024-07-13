@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>验证码发送成功</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+            padding: 20px 0;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 24px;
+            font-weight: normal;
+            color: #333;
+        }
+        .content {
+            padding: 20px;
+        }
+        .content p {
+            line-height: 1.6;
+        }
+        .content .code {
+            font-size: 24px;
+            font-weight: bold;
+            color: #007BFF; /* 验证码的颜色 */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>验证码发送成功</h1>
+        </div>
+        <div class="content">
+            <p>亲爱的用户，</p>
+            <p>您的验证码是：<span class="code">{{ code }}</span></p>
+            <p>请在收到验证码后的5分钟内完成验证。</p>
+            <p>如果这不是您本人的操作，请忽略这封邮件。</p>
+        </div>
+    </div>
+</body>
+</html>

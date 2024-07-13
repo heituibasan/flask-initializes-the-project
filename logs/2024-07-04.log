@@ -1,0 +1,946 @@
+2024-07-04 10:16:04,976 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.17.0.3:8000
+2024-07-04 10:16:04,977 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 10:16:04,978 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 10:16:05,805 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 10:16:05,806 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:28:15,459 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.17.0.3:8000
+2024-07-04 19:28:15,460 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 19:28:15,461 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:28:16,276 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:28:16,277 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:28:23,118 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:28:23] "GET / HTTP/1.1" 200 -
+2024-07-04 19:28:30,207 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:28:30] "GET /user/login HTTP/1.1" 200 -
+2024-07-04 19:29:32,840 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7426
+ * Running on http://172.17.0.3:7426
+2024-07-04 19:29:32,841 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 19:29:32,842 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:29:33,722 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:29:33,723 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:29:37,301 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:29:37] "GET / HTTP/1.1" 200 -
+2024-07-04 19:29:43,875 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:29:43] "GET /user/login HTTP/1.1" 200 -
+2024-07-04 19:30:24,929 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 19:30:25,187 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:30:26,008 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:30:26,009 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:30:27,072 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 19:30:27,329 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:30:28,119 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:30:28,120 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:31:22,068 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:31:22] "GET /api/user/login HTTP/1.1" 200 -
+2024-07-04 19:34:13,730 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:34:13] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:34:13,879 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:34:13] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:34:49,183 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/handler/decorators.py', reloading
+2024-07-04 19:34:49,338 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:34:50,169 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:34:50,170 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:34:51,229 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/handler/decorators.py', reloading
+2024-07-04 19:34:51,471 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:34:52,300 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:34:52,301 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:35:39,030 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:35:39] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:35:39,193 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:35:39] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 19:35:53,802 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 19:35:54,055 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:35:54,939 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:35:54,940 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:35:56,283 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:35:56] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:35:57,998 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:35:57] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:36:14,287 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:36:14] "OPTIONS /api/users/register HTTP/1.1" 200 -
+2024-07-04 19:36:14,431 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:36:14] "POST /api/users/register HTTP/1.1" 200 -
+2024-07-04 19:36:21,768 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:36:21] "OPTIONS /api/users/register HTTP/1.1" 200 -
+2024-07-04 19:36:21,922 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:36:21] "POST /api/users/register HTTP/1.1" 200 -
+2024-07-04 19:36:24,490 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:36:24] "OPTIONS /api/users/register HTTP/1.1" 200 -
+2024-07-04 19:36:24,638 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:36:24] "POST /api/users/register HTTP/1.1" 200 -
+2024-07-04 19:36:32,174 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:36:32] "OPTIONS /api/users/register HTTP/1.1" 200 -
+2024-07-04 19:36:32,312 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:36:32] "POST /api/users/register HTTP/1.1" 200 -
+2024-07-04 19:36:45,899 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:36:45] "OPTIONS /api/users/register HTTP/1.1" 200 -
+2024-07-04 19:36:46,037 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:36:46] "POST /api/users/register HTTP/1.1" 200 -
+2024-07-04 19:37:27,712 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:37:27] "OPTIONS /api/users/register HTTP/1.1" 200 -
+2024-07-04 19:37:28,135 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:37:28] "POST /api/users/register HTTP/1.1" 200 -
+2024-07-04 19:37:36,762 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:37:36] "OPTIONS /api/users/register HTTP/1.1" 200 -
+2024-07-04 19:37:37,182 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:37:37] "POST /api/users/register HTTP/1.1" 200 -
+2024-07-04 19:37:44,567 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:37:44] "OPTIONS /api/users/register HTTP/1.1" 200 -
+2024-07-04 19:37:45,700 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:37:45] "POST /api/users/register HTTP/1.1" 200 -
+2024-07-04 19:38:01,133 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:38:01] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:38:01,672 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:38:01] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:38:11,805 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:38:11] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:38:12,338 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:38:12] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:38:36,796 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 19:38:37,084 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:38:37,909 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:38:37,910 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:39:09,734 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 19:39:09,992 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:48:29,920 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7426
+ * Running on http://172.17.0.3:7426
+2024-07-04 19:48:29,921 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 19:48:29,923 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:48:30,760 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:48:30,761 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:48:32,925 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:48:32] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:48:33,090 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:48:33] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 19:48:59,492 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 19:48:59,796 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:49:00,661 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:49:00,662 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:49:14,020 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 19:49:14,295 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:49:29,949 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7426
+ * Running on http://172.17.0.3:7426
+2024-07-04 19:49:29,950 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 19:49:29,951 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:49:30,765 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:49:30,766 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:49:32,720 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:49:32] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:49:32,876 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:49:32] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 19:49:40,027 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 19:49:40,235 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:49:41,147 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:49:41,148 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:49:42,219 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 19:49:42,521 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:49:43,391 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:49:43,392 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:49:47,600 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:49:47] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:49:47,796 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:49:47] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 19:50:48,977 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 19:50:49,257 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:50:50,103 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:50:50,104 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:50:51,163 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 19:50:51,450 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:50:52,284 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:50:52,285 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:50:54,598 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:50:54] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:50:54,984 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:50:54] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 19:51:42,529 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 19:51:42,828 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:51:43,658 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:51:43,659 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:51:52,928 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 19:51:53,198 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:51:54,016 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:51:54,017 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:51:54,794 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:51:54] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:51:55,180 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:51:55] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 19:52:12,505 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 19:52:12,801 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:52:13,629 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:52:13,630 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:52:19,010 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:52:19] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:52:19,388 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:52:19] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 19:52:37,212 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 19:52:37,490 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:52:38,325 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:52:38,326 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:52:43,479 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 19:52:43,699 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:52:44,525 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:52:44,526 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:52:48,109 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:52:48] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:52:48,479 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:52:48] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 19:52:53,815 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 19:52:54,126 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:52:54,979 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:52:54,980 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:52:59,102 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 19:52:59,339 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:53:00,198 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:53:00,199 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:53:01,011 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:53:01] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:53:02,825 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:53:02] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:53:06,386 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 19:53:06,664 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:53:07,529 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:53:07,530 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:53:08,555 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:53:08] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:53:10,366 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:53:10] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:53:16,816 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 19:53:17,095 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:53:33,016 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7426
+ * Running on http://172.17.0.3:7426
+2024-07-04 19:53:33,017 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 19:53:33,018 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:53:33,858 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:53:33,859 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:53:41,084 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 19:53:41,379 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:53:42,210 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:53:42,211 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:53:45,313 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 19:53:45,603 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:53:46,493 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:53:46,494 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:53:49,488 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:53:49] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:53:51,325 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:53:51] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:54:02,921 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 19:54:03,208 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:54:04,038 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:54:04,039 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:54:04,088 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:54:04] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:54:05,908 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:54:05] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:54:14,355 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 19:54:14,664 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:54:15,500 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:54:15,501 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:54:16,753 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:54:16] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:54:18,560 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:54:18] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:54:21,701 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 19:54:21,979 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:54:22,854 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:54:22,855 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:54:25,356 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:54:25] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:54:27,174 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:54:27] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:54:31,095 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 19:54:31,301 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:54:32,144 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:54:32,145 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:54:36,279 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 19:54:36,568 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:54:37,367 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:54:37,368 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:54:48,663 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 19:54:48,904 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:54:49,822 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:54:49,823 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:54:51,968 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:54:51] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:54:52,359 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:54:52] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 19:55:01,141 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 19:55:01,402 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:55:02,321 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:55:02,322 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:55:04,701 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:55:04] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:55:05,098 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:55:05] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 19:55:13,633 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 19:55:13,898 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:55:14,711 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:55:14,712 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:55:20,877 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 19:55:21,036 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:55:21,864 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:55:21,865 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:55:24,760 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:55:24] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:55:25,160 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:55:25] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 19:55:32,167 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 19:55:32,473 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:55:33,320 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:55:33,321 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:55:33,482 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:55:33] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:55:33,878 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:55:33] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 19:55:48,757 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 19:55:48,971 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:55:49,822 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:55:49,823 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:55:50,879 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 19:55:51,140 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:55:51,967 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:55:51,968 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:55:52,322 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:55:52] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:55:52,728 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:55:52] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 19:56:17,581 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 19:56:17,787 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:56:24,681 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7426
+ * Running on http://172.17.0.3:7426
+2024-07-04 19:56:24,682 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 19:56:24,683 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:56:25,497 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:56:25,498 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:56:29,915 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:56:29] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:56:30,303 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:56:30] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 19:57:16,735 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 19:57:16,978 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 19:57:17,828 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 19:57:17,829 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 19:57:17,855 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:57:17] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 19:57:18,241 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 19:57:18] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 19:59:23,808 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 19:59:24,075 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:04:56,215 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7426
+ * Running on http://172.17.0.3:7426
+2024-07-04 20:04:56,216 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 20:04:56,217 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:04:57,042 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:04:57,043 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:04:59,114 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:04:59] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:05:01,245 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:05:01] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:05:10,419 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:05:10,685 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:05:11,586 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:05:11,588 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:05:16,747 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:05:17,026 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:05:17,834 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:05:17,835 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:05:20,860 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:05:20] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:05:22,998 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:05:22] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:05:51,636 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:05:51,927 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:05:52,790 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:05:52,791 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:05:53,754 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:05:53] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:05:55,838 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:05:55] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:06:02,054 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:06:02,364 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:06:03,177 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:06:03,178 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:06:13,474 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:06:13,673 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:06:14,533 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:06:14,534 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:06:15,924 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:06:15] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:06:18,063 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:06:18] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:06:30,984 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:06:31,285 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:06:32,105 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:06:32,106 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:06:33,164 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:06:33,439 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:06:50,380 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7426
+ * Running on http://172.17.0.3:7426
+2024-07-04 20:06:50,381 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 20:06:50,382 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:06:51,279 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:06:51,280 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:06:53,650 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:06:53] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:06:55,583 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:06:55] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:07:12,798 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:07:13,147 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:07:13,985 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:07:13,986 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:07:15,044 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:07:15,304 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:07:16,146 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:07:16,147 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:07:20,280 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:07:20,575 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:07:21,428 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:07:21,429 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:07:23,065 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:07:23] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:07:24,992 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:07:24] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:07:35,807 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:07:36,109 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:07:36,994 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:07:36,995 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:07:37,020 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:07:37] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:07:38,928 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:07:38] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:08:16,976 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/model/UserModel.py', reloading
+2024-07-04 20:08:17,284 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:08:25,518 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7426
+ * Running on http://172.17.0.3:7426
+2024-07-04 20:08:25,519 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 20:08:25,520 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:08:26,371 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:08:26,372 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:08:28,466 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/model/UserModel.py', reloading
+2024-07-04 20:08:28,713 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:08:29,551 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:08:29,552 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:08:30,880 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:08:30] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:08:32,761 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:08:32] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:08:55,232 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:08:55,493 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:08:56,344 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:08:56,345 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:08:56,369 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:08:56] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:08:58,305 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:08:58] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:09:20,959 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/model/UserModel.py', reloading
+2024-07-04 20:09:21,264 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:09:22,133 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:09:22,134 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:09:23,684 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:09:23] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:09:25,593 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:09:25] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:09:39,579 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/model/UserModel.py', reloading
+2024-07-04 20:09:39,818 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:09:44,664 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7426
+ * Running on http://172.17.0.3:7426
+2024-07-04 20:09:44,664 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 20:09:44,666 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:09:45,549 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:09:45,550 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:09:47,671 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:09:47] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:09:49,598 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:09:49] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:09:58,900 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/model/UserModel.py', reloading
+2024-07-04 20:09:59,209 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:10:00,035 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:10:00,036 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:10:03,146 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/model/UserModel.py', reloading
+2024-07-04 20:10:03,425 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:10:04,278 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:10:04,279 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:10:11,824 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:10:11] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:10:13,758 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:10:13] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:10:50,397 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:10:50,687 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:10:51,551 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:10:51,552 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:10:53,198 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:10:53] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:10:55,323 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:10:55] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:11:00,810 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:11:01,074 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:11:01,903 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:11:01,904 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:11:02,962 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:11:03,253 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:11:04,084 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:11:04,085 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:11:05,761 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:11:05] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:11:07,649 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:11:07] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:11:13,361 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:11:13,647 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:11:14,486 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:11:14,487 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:11:17,593 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:11:17,843 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:11:18,666 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:11:18,667 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:11:20,521 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:11:20] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:11:22,612 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:11:22] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:11:37,159 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:11:37,448 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:11:38,273 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:11:38,274 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:11:40,351 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:11:40,599 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:11:41,433 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:11:41,434 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:11:42,049 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:11:42] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:11:44,162 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:11:44] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:11:48,635 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:11:48,884 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:11:49,735 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:11:49,736 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:11:51,361 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:11:51] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:11:53,291 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:11:53] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:12:19,447 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:12:19,729 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:12:20,549 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:12:20,550 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:12:22,645 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:12:22,946 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:12:23,798 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:12:23,799 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:12:23,825 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:12:23] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:12:25,755 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:12:25] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:12:32,046 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:12:32,341 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:12:33,179 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:12:33,180 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:12:34,669 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:12:34] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:12:36,780 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:12:36] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:12:43,467 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:12:43,782 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:12:44,608 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:12:44,609 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:12:45,282 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:12:45] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:12:47,402 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:12:47] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:12:54,916 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:12:55,134 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:12:55,987 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:12:55,989 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:12:58,919 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:12:58] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:13:01,031 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:13:01] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:13:09,344 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:13:09,652 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:13:10,501 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:13:10,502 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:13:14,627 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:13:14,930 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:13:15,778 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:13:15,779 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:13:22,986 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:13:23,270 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:13:24,114 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:13:24,115 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:13:24,142 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:13:24] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:13:26,086 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:13:26] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:13:53,847 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:13:54,077 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:13:54,917 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:13:54,918 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:14:09,304 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:14:09,548 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:14:10,388 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:14:10,389 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:14:11,448 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:14:11,725 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:14:12,537 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:14:12,538 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:14:14,911 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:14:14] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:14:16,861 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:14:16] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:14:37,177 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:14:37,525 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:14:38,364 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:14:38,365 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:14:43,513 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:14:43,785 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:14:44,597 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:14:44,598 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:14:45,658 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:14:45,919 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:14:46,778 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:14:46,779 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:14:47,767 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:14:47] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:14:49,708 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:14:49] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:14:58,085 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:14:58,386 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:14:59,233 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:14:59,234 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:14:59,739 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:14:59] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:15:01,853 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:15:01] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:16:41,726 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/model/UserModel.py', reloading
+2024-07-04 20:16:41,933 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:16:42,793 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:16:42,794 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:16:43,853 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/model/UserModel.py', reloading
+2024-07-04 20:16:44,180 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:16:45,061 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:16:45,062 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:16:46,122 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/model/UserModel.py', reloading
+2024-07-04 20:16:46,402 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:16:47,229 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:16:47,231 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:16:49,314 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/model/UserModel.py', reloading
+2024-07-04 20:16:49,597 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:16:50,430 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:16:50,432 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:16:59,252 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:16:59] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:17:01,364 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:17:01] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:17:29,387 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:17:29,683 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:17:30,558 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:17:30,559 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:17:31,453 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:17:31] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:17:33,376 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:17:33] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:17:42,874 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:17:43,173 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:17:44,027 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:17:44,028 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:17:44,850 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:17:44] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:17:46,822 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:17:46] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:17:59,419 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:17:59,728 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:18:00,623 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:18:00,624 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:18:03,736 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:18:04,016 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:18:29,231 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7426
+ * Running on http://172.17.0.3:7426
+2024-07-04 20:18:29,231 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 20:18:29,232 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:18:30,073 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:18:30,074 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:18:31,785 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:18:31] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:18:33,981 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:18:33] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:18:46,502 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:18:46,705 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:18:47,555 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:18:47,556 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:18:50,663 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:18:50,952 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:18:51,802 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:18:51,803 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:19:12,315 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:19:12,619 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:19:13,448 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:19:13,449 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:19:15,538 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:19:15,793 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:20:06,664 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7426
+ * Running on http://172.17.0.3:7426
+2024-07-04 20:20:06,665 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 20:20:06,666 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:20:07,521 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:20:07,522 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:20:09,305 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:20:09] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:20:09,703 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:20:09] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:20:26,053 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:20:26] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:20:26,259 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:20:26] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:20:54,715 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:20:54,990 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:20:55,833 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:20:55,834 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:20:57,331 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:20:57] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:20:57,724 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:20:57] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:21:07,120 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:21:07,418 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:21:56,516 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7426
+ * Running on http://172.17.0.3:7426
+2024-07-04 20:21:56,517 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 20:21:56,518 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:21:57,369 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:21:57,370 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:21:58,433 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:21:58] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:21:58,832 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:21:58] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:22:39,407 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:22:39,723 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:22:40,623 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:22:40,624 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:22:43,334 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:22:43] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:22:43,738 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:22:43] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:22:54,015 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:22:54,325 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:22:55,167 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:22:55,168 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:22:57,249 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:22:57,552 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:22:58,399 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:22:58,401 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:22:59,763 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:22:59] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:23:00,167 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:23:00] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:23:08,695 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:23:08,977 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:23:20,610 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7426
+ * Running on http://172.17.0.3:7426
+2024-07-04 20:23:20,611 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 20:23:20,613 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:23:21,512 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:23:21,513 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:23:21,539 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:23:21] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:23:22,013 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:23:22] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:23:46,726 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:23:46] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:23:46,933 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:23:46] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:26:33,302 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:26:33] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:26:35,373 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:26:35] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:26:38,970 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:26:38] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:26:39,179 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:26:39] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:26:55,236 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:26:55] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:26:56,016 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:26:56] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:27:13,911 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:27:14,113 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:27:15,004 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:27:15,005 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:27:56,981 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:27:57,328 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:27:58,181 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:27:58,182 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:27:59,137 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:27:59] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:28:01,362 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:28:01] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:32:01,772 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:32:01,977 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:34:21,362 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7426
+ * Running on http://172.17.0.3:7426
+2024-07-04 20:34:21,362 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 20:34:21,363 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:34:22,214 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:34:22,215 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:34:30,110 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:34:30] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:34:32,333 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:34:32] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:35:17,586 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:35:17,868 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:35:18,735 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:35:18,736 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:35:20,387 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:35:20] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:35:22,386 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:35:22] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:35:27,122 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:35:27] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:35:27,718 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:35:27] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:35:37,184 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:35:37,524 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:35:38,365 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:35:38,366 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:35:45,564 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:35:45,819 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:35:46,657 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:35:46,658 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:35:48,743 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:35:48,984 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:35:49,836 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:35:49,837 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:35:50,905 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:35:51,207 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:35:52,056 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:35:52,057 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:35:53,115 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:35:53,467 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:35:54,318 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:35:54,319 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:35:56,399 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:35:56,769 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:35:57,616 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:35:57,617 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:35:58,706 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:35:58] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:35:59,092 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:35:59] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:36:20,187 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:36:20,480 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:36:21,323 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:36:21,324 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:36:23,290 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:36:23] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:36:25,333 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:36:25] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:36:31,578 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:36:31,873 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:36:32,701 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:36:32,702 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:36:36,696 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:36:36] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:36:37,081 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:36:37] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:36:45,006 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:36:45,263 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:36:46,123 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:36:46,124 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:36:58,434 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:36:58,724 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:36:59,562 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:36:59,563 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:36:59,999 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:36:59] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:37:00,397 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:37:00] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:37:08,807 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:37:09,075 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:37:09,903 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:37:09,904 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:37:10,537 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:37:10] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:37:10,933 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:37:10] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 20:37:55,036 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:37:55,331 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:37:56,187 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:37:56,188 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:37:58,270 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:37:58,509 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:37:59,353 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:37:59,354 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:38:05,528 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:38:05,807 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:38:06,664 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:38:06,665 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:38:09,775 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:38:10,051 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:38:10,881 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:38:10,882 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:38:13,988 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:38:14,246 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:38:15,086 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:38:15,087 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:38:18,202 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:38:18,476 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:38:19,326 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:38:19,327 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:38:38,826 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:38:39,159 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:38:40,030 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:38:40,031 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:39:42,609 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/model/UserModel.py', reloading
+2024-07-04 20:39:42,907 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:41:52,167 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7426
+ * Running on http://172.17.0.3:7426
+2024-07-04 20:41:52,167 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 20:41:52,168 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:41:52,991 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:41:52,992 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:41:54,461 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:41:54] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:41:55,021 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:41:55] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:42:00,561 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:42:00] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:42:00,869 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:42:00] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:42:21,683 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 20:42:21,906 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:44:03,386 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7426
+ * Running on http://172.17.0.3:7426
+2024-07-04 20:44:03,386 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 20:44:03,388 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:44:04,207 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:44:04,208 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:44:07,010 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:44:07] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:44:07,498 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:44:07] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:44:09,538 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:44:09] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:44:09,843 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:44:09] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:44:11,367 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:44:11] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:44:11,687 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:44:11] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:51:58,634 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:51:58] "GET / HTTP/1.1" 200 -
+2024-07-04 20:58:26,889 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:58:27,098 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:58:27,969 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:58:27,970 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:58:33,134 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:58:33,376 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:58:34,212 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:58:34,213 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:58:38,338 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:58:38,618 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:58:39,462 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:58:39,463 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:59:00,994 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:59:01,300 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:59:02,178 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:59:02,179 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:59:21,642 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 20:59:21,975 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 20:59:22,809 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 20:59:22,810 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 20:59:58,453 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:59:58] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 20:59:58,620 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 20:59:58] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 21:00:05,816 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 21:00:06,096 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:00:06,928 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:00:06,929 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:00:10,250 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:00:10] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:00:12,185 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:00:12] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 21:00:35,934 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:00:35] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:00:36,436 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:00:36] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 21:01:29,843 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 21:01:30,144 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:01:30,977 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:01:30,978 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:01:32,310 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:01:32] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:01:34,285 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:01:34] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 21:01:55,588 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/model/UserModel.py', reloading
+2024-07-04 21:01:55,796 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:01:56,639 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:01:56,640 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:02:07,939 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/model/UserModel.py', reloading
+2024-07-04 21:02:08,204 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:02:09,063 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:02:09,064 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:02:11,152 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/model/UserModel.py', reloading
+2024-07-04 21:02:11,454 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:02:12,305 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:02:12,306 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:02:15,414 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/model/UserModel.py', reloading
+2024-07-04 21:02:15,689 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:02:16,521 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:02:16,522 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:02:20,657 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/model/UserModel.py', reloading
+2024-07-04 21:02:21,008 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:02:21,881 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:02:21,882 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:02:23,493 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:02:23] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:02:25,521 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:02:25] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 21:02:36,237 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 21:02:36,526 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:02:37,377 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:02:37,378 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:02:37,613 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:02:37] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:02:39,712 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:02:39] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 21:03:00,944 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/model/UserModel.py', reloading
+2024-07-04 21:03:01,316 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:03:02,158 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:03:02,159 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:03:04,709 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:03:04] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:03:06,809 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:03:06] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 21:03:26,792 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/model/UserModel.py', reloading
+2024-07-04 21:03:27,094 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:03:27,960 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:03:27,961 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:03:28,248 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:03:28] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:03:30,324 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:03:30] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 21:03:42,363 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/model/UserModel.py', reloading
+2024-07-04 21:03:42,668 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:03:43,506 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:03:43,508 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:04:25,506 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 21:04:25,778 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:04:26,598 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:04:26,599 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:04:30,135 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:04:30] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:04:32,258 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:04:32] "[35m[1mPOST /api/users/login HTTP/1.1[0m" 500 -
+2024-07-04 21:04:55,324 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 21:04:55,614 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:04:56,469 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:04:56,470 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:04:56,791 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:04:56] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:04:59,023 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:04:59] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:05:06,753 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/model/UserModel.py', reloading
+2024-07-04 21:05:07,064 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:05:07,918 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:05:07,919 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:05:46,206 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:05:46] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:05:48,442 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:05:48] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:06:04,204 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:06:04] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:06:04,983 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:06:04] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:06:19,071 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:06:19] "OPTIONS /api/users/register HTTP/1.1" 200 -
+2024-07-04 21:06:19,210 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:06:19] "POST /api/users/register HTTP/1.1" 200 -
+2024-07-04 21:06:24,894 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:06:24] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:06:25,657 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:06:25] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:06:37,078 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 21:06:37,379 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:06:38,184 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:06:38,185 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:06:39,034 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:06:39] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:06:41,153 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:06:41] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:06:46,104 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:06:46] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:06:46,802 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:06:46] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:06:49,097 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:06:49] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:06:49,769 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:06:49] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:07:05,055 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:07:05] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:07:05,731 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:07:05] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:07:08,027 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:07:08] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:07:08,709 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:07:08] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:07:18,210 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 21:07:18,481 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:07:19,326 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:07:19,327 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:07:32,679 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 21:07:32,983 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:07:33,819 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:07:33,820 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:07:41,028 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 21:07:41,279 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:07:42,126 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:07:42,127 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:07:44,213 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 21:07:44,462 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:07:45,295 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:07:45,296 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:07:46,353 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 21:07:46,626 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:07:58,941 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7426
+ * Running on http://172.17.0.3:7426
+2024-07-04 21:07:58,941 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 21:07:58,943 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:07:59,783 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:07:59,784 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:08:02,423 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:08:02] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:08:04,693 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:08:04] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:08:13,121 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 21:08:13,436 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:08:14,270 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:08:14,271 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:08:21,067 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:08:21] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:08:23,420 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:08:23] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:08:33,775 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 21:08:34,064 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:08:34,932 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:08:34,933 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:08:34,958 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:08:34] "OPTIONS /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:08:37,328 - werkzeug - INFO - 127.0.0.1 - - [04/Jul/2024 21:08:37] "POST /api/users/login HTTP/1.1" 200 -
+2024-07-04 21:08:46,242 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/service/UserService.py', reloading
+2024-07-04 21:08:46,551 - werkzeug - INFO -  * Restarting with stat
+2024-07-04 21:08:47,398 - werkzeug - WARNING -  * Debugger is active!
+2024-07-04 21:08:47,399 - werkzeug - INFO -  * Debugger PIN: 945-301-017
+2024-07-04 21:09:03,815 - werkzeug - INFO -  * Detected change in '/root/python/flask-vue-blog-system/src/utils/cache.py', reloading
+2024-07-04 21:09:04,084 - werkzeug - INFO -  * Restarting with stat
